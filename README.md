@@ -1,6 +1,7 @@
 # Typesetting
 
-
+## CNC
+If you produce your own wood type. It's best to take pear wood («Stirnholz»).
 
 ## Colors
 To print in take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».

@@ -8,6 +8,10 @@ SOURCE_BRANCH="${SOURCE_BRANCH:-master}"
 TARGET_BRANCH="${TARGET_BRANCH:-gh-pages}"
 DEPLOY_DIR="${DEPLOY_DIR:-public}"
 
+ROOT_DIR=$(pwd)
+
+
+
 # Save some useful information
 REPO=`git config remote.origin.url`
 SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
@@ -38,14 +42,14 @@ echo "   * get repo"
 git clone $REPO $DEPLOY_DIR
 cd $DEPLOY_DIR
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
-cd ..
+cd $ROOT_DIR
 
 # Clean out existing contents
 echo "   * clean up"
 cd $DEPLOY_DIR
 # Recursively clean current directory but not dir named .git
 rm -r $(ls -a | grep -v '^\.\.$' | grep -v '^\.$' | grep -v '^\.git$')
-cd ..
+cd $ROOT_DIR
 
 
 # Run our compile script

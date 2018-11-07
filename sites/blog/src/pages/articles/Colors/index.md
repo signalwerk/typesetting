@@ -5,7 +5,7 @@ date: "2018-11-04T12:00:00.169Z"
 
 
 ## Colors
-To print in take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».
+To print in colors take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».
 
 ### Colos in Switzerland
 hubergroup Schweiz AG   

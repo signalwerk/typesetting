@@ -1,26 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 07 Nov 2018 13:39:52 GMT</lastBuildDate><item><title><![CDATA[CNC]]></title><description><![CDATA[CNC If you produce your own wood type. It’s best to take pear wood («Stirnholz»)  .
-I also saw good examples made with «Filmbeschichtete…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/CNC/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/CNC/</guid><pubDate>Mon, 05 Nov 2018 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;CNC&lt;/h2&gt;
-&lt;p&gt;If you produce your own wood type. It’s best to take pear wood («Stirnholz») &lt;sup id=&quot;fnref-pear&quot;&gt;&lt;a href=&quot;#fn-pear&quot; class=&quot;footnote-ref&quot;&gt;pear&lt;/a&gt;&lt;/sup&gt;.
-I also saw good examples made with «Filmbeschichtete Birkensperrholzplatte» (Formica/Resopal) &lt;sup id=&quot;fnref-p98a&quot;&gt;&lt;a href=&quot;#fn-p98a&quot; class=&quot;footnote-ref&quot;&gt;p98a&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn-pear&quot;&gt;
-&lt;p&gt;I saw 2017 examplex made by Marko in Ljubljana. Awesome!&lt;/p&gt;
-&lt;a href=&quot;#fnref-pear&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-p98a&quot;&gt;
-&lt;p&gt;I saw 2016 examplex made by &lt;a href=&quot;https://www.p98a.com/&quot;&gt;P98a&lt;/a&gt; in Berlin.&lt;/p&gt;
-&lt;a href=&quot;#fnref-p98a&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[Colors To print in take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe». Colos in Switzerland…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/Colors/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/Colors/</guid><pubDate>Mon, 05 Nov 2018 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Colors&lt;/h2&gt;
-&lt;p&gt;To print in take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».&lt;/p&gt;
-&lt;h3&gt;Colos in Switzerland&lt;/h3&gt;
-&lt;p&gt;hubergroup Schweiz AG&lt;br&gt;
-Buechstrasse 11&lt;br&gt;
-CH-8645 Jona  &lt;/p&gt;
-&lt;p&gt;Dündup Rongtsang → Duendup.Rongtsang@hubergroup.com – +41 55 457 51 38&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pin marks]]></title><description><![CDATA[Today I found in the workshop a some cases with «Elementarschmuck»
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 07 Nov 2018 13:44:12 GMT</lastBuildDate><item><title><![CDATA[Pin marks]]></title><description><![CDATA[Today I found in the workshop a some cases with «Elementarschmuck»
  Patterns for security prints
  And a case with all the same patern
  Some…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/2018-11-05--pin-marks/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/2018-11-05--pin-marks/</guid><pubDate>Mon, 05 Nov 2018 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I found in the workshop a some cases with «Elementarschmuck»
@@ -212,4 +190,26 @@ CH-8645 Jona  &lt;/p&gt;
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CNC]]></title><description><![CDATA[CNC If you produce your own wood type. It’s best to take pear wood («Stirnholz»)  .
+I also saw good examples made with «Filmbeschichtete…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/CNC/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/CNC/</guid><pubDate>Sun, 04 Nov 2018 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;CNC&lt;/h2&gt;
+&lt;p&gt;If you produce your own wood type. It’s best to take pear wood («Stirnholz») &lt;sup id=&quot;fnref-pear&quot;&gt;&lt;a href=&quot;#fn-pear&quot; class=&quot;footnote-ref&quot;&gt;pear&lt;/a&gt;&lt;/sup&gt;.
+I also saw good examples made with «Filmbeschichtete Birkensperrholzplatte» (Formica/Resopal) &lt;sup id=&quot;fnref-p98a&quot;&gt;&lt;a href=&quot;#fn-p98a&quot; class=&quot;footnote-ref&quot;&gt;p98a&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-pear&quot;&gt;
+&lt;p&gt;I saw 2017 examplex made by Marko in Ljubljana. Awesome!&lt;/p&gt;
+&lt;a href=&quot;#fnref-pear&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-p98a&quot;&gt;
+&lt;p&gt;I saw 2016 examplex made by &lt;a href=&quot;https://www.p98a.com/&quot;&gt;P98a&lt;/a&gt; in Berlin.&lt;/p&gt;
+&lt;a href=&quot;#fnref-p98a&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[Colors To print in take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe». Colos in Switzerland…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/Colors/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/Colors/</guid><pubDate>Sun, 04 Nov 2018 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Colors&lt;/h2&gt;
+&lt;p&gt;To print in take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».&lt;/p&gt;
+&lt;h3&gt;Colos in Switzerland&lt;/h3&gt;
+&lt;p&gt;hubergroup Schweiz AG&lt;br&gt;
+Buechstrasse 11&lt;br&gt;
+CH-8645 Jona  &lt;/p&gt;
+&lt;p&gt;Dündup Rongtsang → Duendup.Rongtsang@hubergroup.com – +41 55 457 51 38&lt;/p&gt;</content:encoded></item></channel></rss>

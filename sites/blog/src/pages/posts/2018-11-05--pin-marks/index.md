@@ -1,7 +1,16 @@
 ---
 title: Pin marks
-date: "2018-11-05T12:00:00.169Z"
+author: "Stefan Huber"
+date: "2018-11-05"
+layout: post
+draft: false
+path: "/posts/pin-marks/"
+tags:
+  - "TagOne"
+  - "TagTwo"
+description: "bla bla bla... "
 ---
+
 
 
 Today I found in the workshop a some cases with «Elementarschmuck»

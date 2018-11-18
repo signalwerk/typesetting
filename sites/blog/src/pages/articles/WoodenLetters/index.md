@@ -1,6 +1,14 @@
 ---
-title: CNC
-date: "2018-11-04T12:00:00.169Z"
+title: Wooden Letters
+author: "Stefan Huber"
+date: "2018-11-04"
+layout: post
+draft: true
+path: "/articles/wooden-letters/"
+tags:
+  - "TagOne"
+  - "TagTwo"
+description: "bla bla bla... "
 ---
 
 

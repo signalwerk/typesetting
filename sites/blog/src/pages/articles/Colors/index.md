@@ -1,8 +1,21 @@
 ---
 title: Colors
-date: "2018-11-04T12:00:00.169Z"
+author: "Stefan Huber"
+date: "2018-11-04"
+layout: post
+draft: true
+path: "/articles/colors/"
+tags:
+  - "TagOne"
+  - "TagTwo"
+description: "bla bla bla... "
 ---
 
+
+# this is a stub! don't read!
+
+## Correct Collors
+Die [Lettertypen](https://www.lettertypen.de/) kennen einen Lieferanten, der Farben mit Leinöl liefert.
 
 ## Colors
 To print in colors take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».

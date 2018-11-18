@@ -13,7 +13,7 @@ description: "bla bla bla... "
 
 
 
-Today I found in the workshop a some cases with «Elementarschmuck»
+Today I found in the workshop some cases with «Elementarschmuck»
 ![workshop impressions](./img/IMG_8479.jpg)
 
 Patterns for security prints

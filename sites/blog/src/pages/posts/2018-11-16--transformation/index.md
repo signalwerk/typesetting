@@ -8,10 +8,10 @@ path: "/posts/transformation-mainz-2018/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "The Gutenberg-Museum in Mainz invited a broad audience of book lovers and type enthusiasts to a conference about haptics."
 ---
 
-This weekend was the second run of the conference [«Transformationen des Buchdrucks»](https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied) (Transformation of letter press) with the topic «Haptiken» (Haptics). Where as the first conference two years ago was held in Berlin this time the [«Gutenberg-Museum Mainz»](http://www.gutenberg-museum.de/) opened it's doors.
+This weekend was the second run of the conference [«Transformationen des Buchdrucks»](https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied) (Transformation of letter press) with the topic «Haptiken» (haptics). Where as the first conference two years ago was held in Berlin this time the [«Gutenberg-Museum Mainz»](http://www.gutenberg-museum.de/) opened it's doors.
 
 There were many people from all over Germany and even some international Guests. The broad range of Speakers gave a good overview of several different Topics right now happening in the field of letter press.
 

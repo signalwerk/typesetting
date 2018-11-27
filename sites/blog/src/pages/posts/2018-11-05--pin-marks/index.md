@@ -8,17 +8,14 @@ path: "/posts/pin-marks/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "In the workshop at the School of Design in Zurich I found some pin marks on letters who indicate their orgin in Leipzig."
 ---
-
-
 
 Today I found in the workshop some cases with «Elementarschmuck»
 ![workshop impressions](./img/IMG_8479.jpg)
 
 Patterns for security prints
 ![workshop impressions](./img/IMG_8474.jpg)
-
 
 And a case with all the same patern
 ![workshop impressions](./img/IMG_8482.jpg)

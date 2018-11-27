@@ -1,7 +1,7 @@
 language: node_js
 node_js: stable
 install:
-  - yarn
+  - yarn install --frozen-lockfile
 script:
   - bash ./travis/gh-pages.sh
 env:

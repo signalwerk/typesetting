@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Dec 2018 03:38:14 GMT</lastBuildDate><item><title><![CDATA[Conference – Transformation of letter press]]></title><description><![CDATA[This weekend was the second run of the conference  «Transformationen des Buchdrucks»  (Transformation of letter press) with the topic…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This weekend was the second run of the conference &lt;a href=&quot;https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied&quot;&gt;«Transformationen des Buchdrucks»&lt;/a&gt; (Transformation of letter press) with the topic «Haptiken» (haptics). Where as the first conference two years ago was held in Berlin this time the &lt;a href=&quot;http://www.gutenberg-museum.de/&quot;&gt;«Gutenberg-Museum Mainz»&lt;/a&gt; opened it’s doors.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Dec 2018 11:28:04 GMT</lastBuildDate><item><title><![CDATA[How cut out small print runs]]></title><description><![CDATA[Finding the right crop To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Finding the right crop&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f98d7/IMG_8361_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 149.9809233117131%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/aAAwDAQACEAMQAAABZTeCuYQZPWot0GSGQX//xAAbEAADAAMBAQAAAAAAAAAAAAAAAQIDEjERIf/aAAgBAQABBQJSh46q8bbU8lfcZPNJINmj3ZKUj//EABcRAQEBAQAAAAAAAAAAAAAAAAECEBH/2gAIAQMBAT8BJEwrmf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ASn/xAAdEAACAQQDAAAAAAAAAAAAAAAAAREDECFxIjFB/9oACAEBAAY/AjjUhaHL9tlD3aR7OyGYP//EABwQAQADAQADAQAAAAAAAAAAAAEAESExEGFxsf/aAAgBAQABPyFIYRvcjhbJfUpScIo0PWTn7zhEtIHdn6vGLVLHsGxU/9oADAMBAAIAAwAAABD0wH3/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAEDAQE/ECC8QSab/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAyTsRb/8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFBUWFx8P/aAAgBAQABPxBidwdzpOpkPVy0q6fiZpx2GHC7qAefvNf3cxHWaMCRhpBDd7hhEixhICmJaFA+ciBC2Vz/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Cropping&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f3a32/IMG_8361_sh.jpg&quot;
+        srcset=&quot;/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/6ba01/IMG_8361_sh.jpg 175w,
+/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/b8ff8/IMG_8361_sh.jpg 350w,
+/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f3a32/IMG_8361_sh.jpg 700w,
+/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/61d28/IMG_8361_sh.jpg 1050w,
+/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/be74e/IMG_8361_sh.jpg 1400w,
+/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/bf62f/IMG_8361_sh.jpg 2100w,
+/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f98d7/IMG_8361_sh.jpg 2621w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final proportion of the format and try to have some rational numbers (2:3, 3:5, …).&lt;/p&gt;
+&lt;h2&gt;Making a Mask&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/c6513120714576cd62e837f876234f11/2343d/IMG_8933_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.68196420376319%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAF2pMxdBs7/AP/EABgQAAMBAQAAAAAAAAAAAAAAAAECIQAT/9oACAEBAAEFAkYBuibomIrJAZ//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAhES/9oACAEDAQE/AbZk/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAIT/9oACAECAQE/AWsv/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQETHh/9oACAEBAAY/AnZpyLTj/8QAGhAAAwADAQAAAAAAAAAAAAAAAAEREDFRYf/aAAgBAQABPyGopcSno6jcCaLI4f/aAAwDAQACAAMAAAAQCC//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFh/9oACAEDAQE/EBBlwv/EABURAQEAAAAAAAAAAAAAAAAAAABh/9oACAECAQE/EFX/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMVFB/9oACAEBAAE/EKb1kX7uDavXBiq0t1i5vXJQ81lPTjBeyS9z/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Example&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/c6513120714576cd62e837f876234f11/f3a32/IMG_8933_sh.jpg&quot;
+        srcset=&quot;/typesetting/static/c6513120714576cd62e837f876234f11/6ba01/IMG_8933_sh.jpg 175w,
+/typesetting/static/c6513120714576cd62e837f876234f11/b8ff8/IMG_8933_sh.jpg 350w,
+/typesetting/static/c6513120714576cd62e837f876234f11/f3a32/IMG_8933_sh.jpg 700w,
+/typesetting/static/c6513120714576cd62e837f876234f11/61d28/IMG_8933_sh.jpg 1050w,
+/typesetting/static/c6513120714576cd62e837f876234f11/be74e/IMG_8933_sh.jpg 1400w,
+/typesetting/static/c6513120714576cd62e837f876234f11/bf62f/IMG_8933_sh.jpg 2100w,
+/typesetting/static/c6513120714576cd62e837f876234f11/2343d/IMG_8933_sh.jpg 2179w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;After I found the right spot I make a mask with tracing paper. On the tracing paper I make some markings of the print so I can easily place it on the next print. I take care its correct 90° angeled so the final product will not end up as rhomubs. In the corners I place a transparent tape to punch with the stitching awl through and mark therefore my final format on the print. Now I’m able to crop it with a cutter.&lt;/p&gt;
+&lt;h3&gt;Thanks&lt;/h3&gt;
+&lt;p&gt;Thanks to &lt;a href=&quot;https://www.zhdk.ch/person/10417&quot;&gt;Rudolf Barmettler&lt;/a&gt; for showing me this technic&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Conference – Transformation of letter press]]></title><description><![CDATA[This weekend was the second run of the conference  «Transformationen des Buchdrucks»  (Transformation of letter press) with the topic…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This weekend was the second run of the conference &lt;a href=&quot;https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied&quot;&gt;«Transformationen des Buchdrucks»&lt;/a&gt; (Transformation of letter press) with the topic «Haptiken» (haptics). Where as the first conference two years ago was held in Berlin this time the &lt;a href=&quot;http://www.gutenberg-museum.de/&quot;&gt;«Gutenberg-Museum Mainz»&lt;/a&gt; opened it’s doors.&lt;/p&gt;
 &lt;p&gt;There were many people from all over Germany and even some international Guests. The broad range of Speakers gave a good overview of several different Topics right now happening in the field of letter press.&lt;/p&gt;
 &lt;p&gt;
   &lt;span
@@ -247,16 +326,7 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[this is a stub! don’t read! Correct Collors Die  Lettertypen  kennen einen Lieferanten, der Farben mit Leinöl liefert. Colors To print in…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;this is a stub! don’t read!&lt;/h1&gt;
-&lt;h2&gt;Correct Collors&lt;/h2&gt;
-&lt;p&gt;Die &lt;a href=&quot;https://www.lettertypen.de/&quot;&gt;Lettertypen&lt;/a&gt; kennen einen Lieferanten, der Farben mit Leinöl liefert.&lt;/p&gt;
-&lt;h2&gt;Colors&lt;/h2&gt;
-&lt;p&gt;To print in colors take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».&lt;/p&gt;
-&lt;h3&gt;Colos in Switzerland&lt;/h3&gt;
-&lt;p&gt;hubergroup Schweiz AG&lt;br&gt;
-Buechstrasse 11&lt;br&gt;
-CH-8645 Jona  &lt;/p&gt;
-&lt;p&gt;Dündup Rongtsang → Duendup.Rongtsang@hubergroup.com – +41 55 457 51 38&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wooden Letters]]></title><description><![CDATA[CNC If you produce your own wood type. It’s best to take pear wood («Stirnholz»)  .
+&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wooden Letters]]></title><description><![CDATA[CNC If you produce your own wood type. It’s best to take pear wood («Stirnholz»)  .
 I also saw good examples made with «Filmbeschichtete…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/wooden-letters/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/wooden-letters/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;CNC&lt;/h2&gt;
 &lt;p&gt;If you produce your own wood type. It’s best to take pear wood («Stirnholz») &lt;sup id=&quot;fnref-pear&quot;&gt;&lt;a href=&quot;#fn-pear&quot; class=&quot;footnote-ref&quot;&gt;pear&lt;/a&gt;&lt;/sup&gt;.
 I also saw good examples made with «Filmbeschichtete Birkensperrholzplatte» (Formica/Resopal) &lt;sup id=&quot;fnref-p98a&quot;&gt;&lt;a href=&quot;#fn-p98a&quot; class=&quot;footnote-ref&quot;&gt;p98a&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -272,4 +342,15 @@ I also saw good examples made with «Filmbeschichtete Birkensperrholzplatte» (F
 &lt;a href=&quot;#fnref-p98a&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[this is a stub! don’t read! Correct Collors Die  Lettertypen  kennen einen Lieferanten, der Farben mit Leinöl liefert. Colors To print in…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;this is a stub! don’t read!&lt;/h1&gt;
+&lt;h2&gt;Correct Collors&lt;/h2&gt;
+&lt;p&gt;Die &lt;a href=&quot;https://www.lettertypen.de/&quot;&gt;Lettertypen&lt;/a&gt; kennen einen Lieferanten, der Farben mit Leinöl liefert.&lt;/p&gt;
+&lt;h2&gt;Colors&lt;/h2&gt;
+&lt;p&gt;To print in colors take «Kleinoffset ohne Trockenstoff». As for Black you can probably also order «Folienfarbe».&lt;/p&gt;
+&lt;h3&gt;Colos in Germany&lt;/h3&gt;
+&lt;p&gt;In Germany there is a company called &lt;a href=&quot;https://www.gerstaecker.de/&quot;&gt;Gerstaecker&lt;/a&gt; selling speial «Buchdruckfarben». (&lt;a href=&quot;https://www.verein-fuer-die-schwarze-kunst.de/community/forum-wissen/druckfarben-hochdruck/#post-13&quot;&gt;Source&lt;/a&gt;)&lt;/p&gt;
+&lt;h3&gt;Colos in Switzerland&lt;/h3&gt;
+&lt;p&gt;hubergroup Schweiz AG&lt;br&gt;
+Buechstrasse 11&lt;br&gt;
+CH-8645 Jona  &lt;/p&gt;
+&lt;p&gt;Dündup Rongtsang → Duendup.Rongtsang@hubergroup.com – +41 55 457 51 38&lt;/p&gt;</content:encoded></item></channel></rss>

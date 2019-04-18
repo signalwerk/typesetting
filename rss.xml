@@ -1,4 +1,233 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Apr 2019 09:17:15 GMT</lastBuildDate><item><title><![CDATA[How cut out small print runs]]></title><description><![CDATA[Finding the right crop To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Finding the right crop&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Apr 2019 11:39:32 GMT</lastBuildDate><item><title><![CDATA[Typesetting]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div'; Signalwerk GmbH – Stefan Huber · 2019 ·  CC-BY-SA 4.0]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+&lt;Div className=&quot;column__text&quot;&gt;
+&lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[Typometer Deisgns]]></title><description><![CDATA[1997 – Who remembers «DTP»?! When I startet 1997 my apprenticeship I got my first typometer from the company/magazine  Page . The design was…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/typometer-designs/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/typometer-designs/</guid><pubDate>Mon, 15 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;1997 – Who remembers «DTP»?!&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f9e05/IMG_7020.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB9NNL1sJyZSg0Cf/EAB0QAAIBBAMAAAAAAAAAAAAAAAECAAMQETIhIjH/2gAIAQEAAQUCJ4UkmNqnsbWme0xmBQLf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhAAAwAAAAAAAAAAAAAAAAAAEDAx/9oACAEBAAY/AlQf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQAREDH/2gAIAQEAAT8hY2MY1455Rw8MQBjJaYYv/9oADAMBAAIAAwAAABBQHrH/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAgEBPxCj/8QAHBAAAwADAAMAAAAAAAAAAAAAAAERITFRQXGh/9oACAEBAAE/ELtJ3YsmtNMTPpQ99TKh36iz44Tai8GhItXCSUJTQ//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG 7020&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f3a32/IMG_7020.jpg&quot;
+        srcset=&quot;/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/6ba01/IMG_7020.jpg 175w,
+/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/b8ff8/IMG_7020.jpg 350w,
+/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f3a32/IMG_7020.jpg 700w,
+/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/61d28/IMG_7020.jpg 1050w,
+/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/be74e/IMG_7020.jpg 1400w,
+/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f9e05/IMG_7020.jpg 1512w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;When I startet 1997 my apprenticeship I got my first typometer from the company/magazine &lt;a href=&quot;https://page-online.de/tools-technik/25-jahre-page-dtp-typometer/&quot;&gt;Page&lt;/a&gt;. The design was quite good and I really liked to work with it. It was – of course – tailored for the use in a «Desktop Publishing»-Context and served really well my needs.&lt;/p&gt;
+&lt;h2&gt;2008 - First DIY&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/3f68f/Typometer2008.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 28.12169312169312%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHWGLIP/8QAFhABAQEAAAAAAAAAAAAAAAAAABEx/9oACAEBAAEFAojH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIfD/2gAIAQEAAT8hgjmOY0//2gAMAwEAAgADAAAAEPgv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAFhoRFx0f/aAAgBAQABPxCC2RWGfkme30//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Typometer2008&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/f3a32/Typometer2008.jpg&quot;
+        srcset=&quot;/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/6ba01/Typometer2008.jpg 175w,
+/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/b8ff8/Typometer2008.jpg 350w,
+/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/f3a32/Typometer2008.jpg 700w,
+/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/61d28/Typometer2008.jpg 1050w,
+/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/be74e/Typometer2008.jpg 1400w,
+/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/bf62f/Typometer2008.jpg 2100w,
+/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/3f68f/Typometer2008.jpg 3780w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;A couple years later I made my own typometer. This design was inspired by my first typometer but I made some changes to scales I never needed (Inces) and adjusted the line-register slightly:
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/ed3c4/IMG_4429.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAeqqVy6ion//xAAaEAEBAAIDAAAAAAAAAAAAAAACARExEiEy/9oACAEBAAEFArblpcT3Ft+Br//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAAAEQAP/aAAgBAQAGPwKuZ//EABoQAQEAAgMAAAAAAAAAAAAAAAEAESExUXH/2gAIAQEAAT8hEsMJoy5O5YpQtvb/2gAMAwEAAgADAAAAEGj/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFxYYGx/9oACAEBAAE/EDPAQVYlZDkjovIiH0pdqPSUbM//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG 4429&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/f3a32/IMG_4429.jpg&quot;
+        srcset=&quot;/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/6ba01/IMG_4429.jpg 175w,
+/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/b8ff8/IMG_4429.jpg 350w,
+/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/f3a32/IMG_4429.jpg 700w,
+/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/61d28/IMG_4429.jpg 1050w,
+/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/be74e/IMG_4429.jpg 1400w,
+/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/ed3c4/IMG_4429.jpg 2016w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Typometers for Typesetting&lt;/h2&gt;
+&lt;p&gt;In the workshop I&apos;m currently attending to, I found several old styles for typometers.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/ed3c4/IMG_6869.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAevWFRqFB//EABgQAQEAAwAAAAAAAAAAAAAAAAEAEBEh/9oACAEBAAEFAltsTgef/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAADICoQEQMf/aAAgBAQAGPwJqGrTyGkdyf//EABwQAAICAwEBAAAAAAAAAAAAAAABESExcdGB8f/aAAgBAQABPyFimgqw2GcW58HfwJvlwiyNn//aAAwDAQACAAMAAAAQu/8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHhAAAgICAgMAAAAAAAAAAAAAAREAMSGhUWGRsfD/2gAIAQEAAT8QLAq1mVuJdvxTh+KXISAklAJoYDUJ288AoPfR+p//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG 6869&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/f3a32/IMG_6869.jpg&quot;
+        srcset=&quot;/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/6ba01/IMG_6869.jpg 175w,
+/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/b8ff8/IMG_6869.jpg 350w,
+/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/f3a32/IMG_6869.jpg 700w,
+/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/61d28/IMG_6869.jpg 1050w,
+/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/be74e/IMG_6869.jpg 1400w,
+/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/ed3c4/IMG_6869.jpg 2016w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;For a typometer made by a company called «Bacher» I found two versions:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f9e05/IMG_0752.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAXE1GVxyJHRNSLTSv//EABsQAAICAwEAAAAAAAAAAAAAAAIxAQMAETIS/9oACAEBAAEFAi8lNbPocBn1DB2db1NbJ//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAAMAAAAAAAAAAAAAAAAAABAhMP/aAAgBAQAGPwKKP//EABsQAAMBAAMBAAAAAAAAAAAAAAABESEQMVGh/9oACAEBAAE/IXwanCDPQbUP9HoKFGhWicn/AP/aAAwDAQACAAMAAAAQ2D2C/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EHD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhQTFRYbH/2gAIAQEAAT8QsVfIdN2Aguy4Q+KjAfT9jBQhouqgArdJUHlwCvw7F+zQ57PEShVdm3fqf//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG 0752&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f3a32/IMG_0752.jpg&quot;
+        srcset=&quot;/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/6ba01/IMG_0752.jpg 175w,
+/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/b8ff8/IMG_0752.jpg 350w,
+/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f3a32/IMG_0752.jpg 700w,
+/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/61d28/IMG_0752.jpg 1050w,
+/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/be74e/IMG_0752.jpg 1400w,
+/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f9e05/IMG_0752.jpg 1512w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The one with the «wings» is probably one of my favorites;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f9e05/IMG_4035.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFi0XzYFiFXedBqYi//xAAeEAACAgICAwAAAAAAAAAAAAABAgARAyISEyExMv/aAAgBAQABBQK6lUYPEVG4nMAe3IYmfVtmSH6b3//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EACAQAAECBgMBAAAAAAAAAAAAAAABEQIQEjFRcRMhQWH/2gAIAQEABj8Crx1FoaXwpxZSzj1NoTkd4fRVzJNS/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBURBxgZH/2gAIAQEAAT8hcO9KO+3yPbHDKqNWS1h9S0WR/KOQxc3UWUf4QtrmA79xmntdTbwiTCf/2gAMAwEAAgADAAAAEIApcP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAEDAQE/ENhFH//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAECAQE/ECn/xAAcEAEAAgIDAQAAAAAAAAAAAAABABExQSFRgXH/2gAIAQEAAT8QqMIq2/H1AoqQvuNMtwuYrBF2sznHyXt6fkaMVW95UBqTAAHkaNoehdNyqhdo1ANHFRPulZVFT//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;IMG 4035&quot;
+        title=&quot;&quot;
+        src=&quot;/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f3a32/IMG_4035.jpg&quot;
+        srcset=&quot;/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/6ba01/IMG_4035.jpg 175w,
+/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/b8ff8/IMG_4035.jpg 350w,
+/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f3a32/IMG_4035.jpg 700w,
+/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/61d28/IMG_4035.jpg 1050w,
+/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/be74e/IMG_4035.jpg 1400w,
+/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f9e05/IMG_4035.jpg 1512w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[How cut out small print runs]]></title><description><![CDATA[Finding the right crop To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Finding the right crop&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -36,7 +265,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final proportion of the format and try to have some rational numbers (2:3, 3:5, …).&lt;/p&gt;
+&lt;p&gt;To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final proportion of the format and try to have some rational numbers (2:3, 3:5, ...).&lt;/p&gt;
 &lt;h2&gt;Making a Mask&lt;/h2&gt;
 &lt;p&gt;
   &lt;a
@@ -75,9 +304,9 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;After I found the right spot I make a mask with tracing paper. On the tracing paper I make some markings of the print so I can easily place it on the next print. I take care its correct 90° angeled so the final product will not end up as rhomubs. In the corners I place a transparent tape to punch with the stitching awl through and mark therefore my final format on the print. Now I’m able to crop it with a cutter.&lt;/p&gt;
+&lt;p&gt;After I found the right spot I make a mask with tracing paper. On the tracing paper I make some markings of the print so I can easily place it on the next print. I take care its correct 90° angeled so the final product will not end up as rhomubs. In the corners I place a transparent tape to punch with the stitching awl through and mark therefore my final format on the print. Now I&apos;m able to crop it with a cutter.&lt;/p&gt;
 &lt;h3&gt;Thanks&lt;/h3&gt;
-&lt;p&gt;Thanks to &lt;a href=&quot;https://www.zhdk.ch/person/10417&quot;&gt;Rudolf Barmettler&lt;/a&gt; for showing me this technic&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Conference – Transformation of letter press]]></title><description><![CDATA[This weekend was the second run of the conference  «Transformationen des Buchdrucks»  (Transformation of letter press) with the topic…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This weekend was the second run of the conference &lt;a href=&quot;https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied&quot;&gt;«Transformationen des Buchdrucks»&lt;/a&gt; (Transformation of letter press) with the topic «Haptiken» (haptics). Where as the first conference two years ago was held in Berlin this time the &lt;a href=&quot;http://www.gutenberg-museum.de/&quot;&gt;«Gutenberg-Museum Mainz»&lt;/a&gt; opened it’s doors.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&quot;https://www.zhdk.ch/person/10417&quot;&gt;Rudolf Barmettler&lt;/a&gt; for showing me this technic&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Conference – Transformation of letter press]]></title><description><![CDATA[This weekend was the second run of the conference  «Transformationen des Buchdrucks»  (Transformation of letter press) with the topic…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This weekend was the second run of the conference &lt;a href=&quot;https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied&quot;&gt;«Transformationen des Buchdrucks»&lt;/a&gt; (Transformation of letter press) with the topic «Haptiken» (haptics). Where as the first conference two years ago was held in Berlin this time the &lt;a href=&quot;http://www.gutenberg-museum.de/&quot;&gt;«Gutenberg-Museum Mainz»&lt;/a&gt; opened it&apos;s doors.&lt;/p&gt;
 &lt;p&gt;There were many people from all over Germany and even some international Guests. The broad range of Speakers gave a good overview of several different Topics right now happening in the field of letter press.&lt;/p&gt;
 &lt;p&gt;
   &lt;span
@@ -326,7 +555,7 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[this is a stub! don’t read! Correct Collors Die  Lettertypen  kennen einen Lieferanten, der Farben mit Leinöl liefert. Colors To print in…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;this is a stub! don’t read!&lt;/h1&gt;
+&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[this is a stub! don't read! Correct Collors Die  Lettertypen  kennen einen Lieferanten, der Farben mit Leinöl liefert. Colors To print in…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;this is a stub! don&apos;t read!&lt;/h1&gt;
 &lt;h2&gt;Correct Collors&lt;/h2&gt;
 &lt;p&gt;Die &lt;a href=&quot;https://www.lettertypen.de/&quot;&gt;Lettertypen&lt;/a&gt; kennen einen Lieferanten, der Farben mit Leinöl liefert.&lt;/p&gt;
 &lt;h2&gt;Colors&lt;/h2&gt;
@@ -341,9 +570,9 @@ CH-8645 Jona  &lt;/p&gt;
 &lt;h3&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://vimeo.com/78230375&quot;&gt;Four-color Letterpress Printing of the National Geographic Magazine in the Nineteen Fifties and Sixties&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Wooden Letters]]></title><description><![CDATA[CNC If you produce your own wood type. It’s best to take pear wood («Stirnholz»)  .
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Wooden Letters]]></title><description><![CDATA[CNC If you produce your own wood type. It's best to take pear wood («Stirnholz»)  .
 I also saw good examples made with «Filmbeschichtete…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/wooden-letters/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/wooden-letters/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;CNC&lt;/h2&gt;
-&lt;p&gt;If you produce your own wood type. It’s best to take pear wood («Stirnholz») &lt;sup id=&quot;fnref-pear&quot;&gt;&lt;a href=&quot;#fn-pear&quot; class=&quot;footnote-ref&quot;&gt;pear&lt;/a&gt;&lt;/sup&gt;.
+&lt;p&gt;If you produce your own wood type. It&apos;s best to take pear wood («Stirnholz») &lt;sup id=&quot;fnref-pear&quot;&gt;&lt;a href=&quot;#fn-pear&quot; class=&quot;footnote-ref&quot;&gt;pear&lt;/a&gt;&lt;/sup&gt;.
 I also saw good examples made with «Filmbeschichtete Birkensperrholzplatte» (Formica/Resopal) &lt;sup id=&quot;fnref-p98a&quot;&gt;&lt;a href=&quot;#fn-p98a&quot; class=&quot;footnote-ref&quot;&gt;p98a&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
 &lt;hr&gt;

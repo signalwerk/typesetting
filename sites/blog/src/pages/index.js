@@ -29,9 +29,26 @@ export const homeQuery = graphql`
         authorUrl
       }
     }
-    allMarkdownRemark(
+    post: mdx(fields: {slug: {eq: "root"}}) {
+      id
+      excerpt
+      code {
+        body
+      }
+      frontmatter {
+        title
+        author
+        tags
+        date(formatString: "MMMM DD, YYYY")
+        description
+      }
+      wordCount {
+        words
+      }
+    }
+    posts: allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { draft: { ne: true } } }
+      filter: { frontmatter: { draft: { ne: true }, hideInMenu: { ne: true } } }
     ) {
       edges {
         node {

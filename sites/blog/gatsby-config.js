@@ -12,5 +12,6 @@ module.exports = {
     title: 'Typesetting Blog',
     author: 'Stefan Huber',
     authorUrl: 'http://signalwerk.ch/',
+    description: 'Some experiments in typesetting '
   },
 };

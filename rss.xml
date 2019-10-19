@@ -1,561 +1,455 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Apr 2019 11:39:32 GMT</lastBuildDate><item><title><![CDATA[Typesetting]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div'; Signalwerk GmbH – Stefan Huber · 2019 ·  CC-BY-SA 4.0]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
-&lt;Div className=&quot;column__text&quot;&gt;
-&lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[Some experiments in typesetting ]]></description><link>https://typesetting.signalwerk.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Oct 2019 23:43:47 GMT</lastBuildDate><item><title><![CDATA[Typesetting]]></title><description><![CDATA[Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0]]></description><link>https://typesetting.signalwerk.chroot</link><guid isPermaLink="false">https://typesetting.signalwerk.chroot</guid><content:encoded>&lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
-&lt;br /&gt;
-&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[Typometer Deisgns]]></title><description><![CDATA[1997 – Who remembers «DTP»?! When I startet 1997 my apprenticeship I got my first typometer from the company/magazine  Page . The design was…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/typometer-designs/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/typometer-designs/</guid><pubDate>Mon, 15 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;1997 – Who remembers «DTP»?!&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+&lt;br /&gt;</content:encoded></item><item><title><![CDATA[Typometer Deisgns]]></title><description><![CDATA[1997 – Who remembers «DTP»?!  When I startet 1997 my apprenticeship I got my first typometer from the company/magazine Page. The design was…]]></description><link>https://typesetting.signalwerk.ch/posts/typometer-designs/</link><guid isPermaLink="false">https://typesetting.signalwerk.ch/posts/typometer-designs/</guid><pubDate>Mon, 15 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;1997 – Who remembers «DTP»?!&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1512px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f9e05/IMG_7020.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB9NNL1sJyZSg0Cf/EAB0QAAIBBAMAAAAAAAAAAAAAAAECAAMQETIhIjH/2gAIAQEAAQUCJ4UkmNqnsbWme0xmBQLf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhAAAwAAAAAAAAAAAAAAAAAAEDAx/9oACAEBAAY/AlQf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQAREDH/2gAIAQEAAT8hY2MY1455Rw8MQBjJaYYv/9oADAMBAAIAAwAAABBQHrH/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAgEBPxCj/8QAHBAAAwADAAMAAAAAAAAAAAAAAAERITFRQXGh/9oACAEBAAE/ELtJ3YsmtNMTPpQ99TKh36iz44Tai8GhItXCSUJTQ//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB9NNL1sJyZSg0Cf/EAB0QAAIBBAMAAAAAAAAAAAAAAAECAAMQETIhIjH/2gAIAQEAAQUCJ4UkmNqnsbWme0xmBQLf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFhAAAwAAAAAAAAAAAAAAAAAAEDAx/9oACAEBAAY/AlQf/8QAGBABAQEBAQAAAAAAAAAAAAAAAQAREDH/2gAIAQEAAT8hY2MY1455Rw8MQBjJaYYv/9oADAMBAAIAAwAAABBQHrH/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAgQf/aAAgBAgEBPxCj/8QAHBAAAwADAAMAAAAAAAAAAAAAAAERITFRQXGh/9oACAEBAAE/ELtJ3YsmtNMTPpQ99TKh36iz44Tai8GhItXCSUJTQ//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IMG 7020&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f3a32/IMG_7020.jpg&quot;
-        srcset=&quot;/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/6ba01/IMG_7020.jpg 175w,
-/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/b8ff8/IMG_7020.jpg 350w,
-/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f3a32/IMG_7020.jpg 700w,
-/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/61d28/IMG_7020.jpg 1050w,
-/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/be74e/IMG_7020.jpg 1400w,
-/typesetting/static/a26e89168ceee28bad59aafa7a7ff0e6/f9e05/IMG_7020.jpg 1512w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;IMG 7020&quot;
+        src=&quot;/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/df2c7/IMG_7020.jpg 450w,
+/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/2d017/IMG_7020.jpg 900w,
+/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg 1512w&quot;
+        sizes=&quot;(max-width: 1512px) 100vw, 1512px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;When I startet 1997 my apprenticeship I got my first typometer from the company/magazine &lt;a href=&quot;https://page-online.de/tools-technik/25-jahre-page-dtp-typometer/&quot;&gt;Page&lt;/a&gt;. The design was quite good and I really liked to work with it. It was – of course – tailored for the use in a «Desktop Publishing»-Context and served really well my needs.&lt;/p&gt;
 &lt;h2&gt;2008 - First DIY&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/3f68f/Typometer2008.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/9a7a7/Typometer2008.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 28.12169312169312%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHWGLIP/8QAFhABAQEAAAAAAAAAAAAAAAAAABEx/9oACAEBAAEFAojH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIfD/2gAIAQEAAT8hgjmOY0//2gAMAwEAAgADAAAAEPgv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAFhoRFx0f/aAAgBAQABPxCC2RWGfkme30//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 28.12169312169312%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAGABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHWGLIP/8QAFhABAQEAAAAAAAAAAAAAAAAAABEx/9oACAEBAAEFAojH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIfD/2gAIAQEAAT8hgjmOY0//2gAMAwEAAgADAAAAEPgv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAFhoRFx0f/aAAgBAQABPxCC2RWGfkme30//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Typometer2008&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/f3a32/Typometer2008.jpg&quot;
-        srcset=&quot;/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/6ba01/Typometer2008.jpg 175w,
-/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/b8ff8/Typometer2008.jpg 350w,
-/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/f3a32/Typometer2008.jpg 700w,
-/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/61d28/Typometer2008.jpg 1050w,
-/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/be74e/Typometer2008.jpg 1400w,
-/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/bf62f/Typometer2008.jpg 2100w,
-/typesetting/static/7a8ac8b2445f6afca782af36d46731b1/3f68f/Typometer2008.jpg 3780w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;Typometer2008&quot;
+        src=&quot;/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/98235/Typometer2008.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/df2c7/Typometer2008.jpg 450w,
+/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/2d017/Typometer2008.jpg 900w,
+/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/98235/Typometer2008.jpg 1800w,
+/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/b94e1/Typometer2008.jpg 2700w,
+/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/0d528/Typometer2008.jpg 3600w,
+/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/9a7a7/Typometer2008.jpg 3780w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;A couple years later I made my own typometer. This design was inspired by my first typometer but I made some changes to scales I never needed (Inces) and adjusted the line-register slightly:
-
-  &lt;a
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/ed3c4/IMG_4429.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/110f7/IMG_4429.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAeqqVy6ion//xAAaEAEBAAIDAAAAAAAAAAAAAAACARExEiEy/9oACAEBAAEFArblpcT3Ft+Br//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAAAEQAP/aAAgBAQAGPwKuZ//EABoQAQEAAgMAAAAAAAAAAAAAAAEAESExUXH/2gAIAQEAAT8hEsMJoy5O5YpQtvb/2gAMAwEAAgADAAAAEGj/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFxYYGx/9oACAEBAAE/EDPAQVYlZDkjovIiH0pdqPSUbM//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAeqqVy6ion//xAAaEAEBAAIDAAAAAAAAAAAAAAACARExEiEy/9oACAEBAAEFArblpcT3Ft+Br//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAAAEQAP/aAAgBAQAGPwKuZ//EABoQAQEAAgMAAAAAAAAAAAAAAAEAESExUXH/2gAIAQEAAT8hEsMJoy5O5YpQtvb/2gAMAwEAAgADAAAAEGj/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFxYYGx/9oACAEBAAE/EDPAQVYlZDkjovIiH0pdqPSUbM//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IMG 4429&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/f3a32/IMG_4429.jpg&quot;
-        srcset=&quot;/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/6ba01/IMG_4429.jpg 175w,
-/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/b8ff8/IMG_4429.jpg 350w,
-/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/f3a32/IMG_4429.jpg 700w,
-/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/61d28/IMG_4429.jpg 1050w,
-/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/be74e/IMG_4429.jpg 1400w,
-/typesetting/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/ed3c4/IMG_4429.jpg 2016w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;IMG 4429&quot;
+        src=&quot;/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/98235/IMG_4429.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/df2c7/IMG_4429.jpg 450w,
+/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/2d017/IMG_4429.jpg 900w,
+/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/98235/IMG_4429.jpg 1800w,
+/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/110f7/IMG_4429.jpg 2016w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Typometers for Typesetting&lt;/h2&gt;
 &lt;p&gt;In the workshop I&apos;m currently attending to, I found several old styles for typometers.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/ed3c4/IMG_6869.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/110f7/IMG_6869.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAevWFRqFB//EABgQAQEAAwAAAAAAAAAAAAAAAAEAEBEh/9oACAEBAAEFAltsTgef/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAADICoQEQMf/aAAgBAQAGPwJqGrTyGkdyf//EABwQAAICAwEBAAAAAAAAAAAAAAABESExcdGB8f/aAAgBAQABPyFimgqw2GcW58HfwJvlwiyNn//aAAwDAQACAAMAAAAQu/8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHhAAAgICAgMAAAAAAAAAAAAAAREAMSGhUWGRsfD/2gAIAQEAAT8QLAq1mVuJdvxTh+KXISAklAJoYDUJ288AoPfR+p//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAevWFRqFB//EABgQAQEAAwAAAAAAAAAAAAAAAAEAEBEh/9oACAEBAAEFAltsTgef/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAADICoQEQMf/aAAgBAQAGPwJqGrTyGkdyf//EABwQAAICAwEBAAAAAAAAAAAAAAABESExcdGB8f/aAAgBAQABPyFimgqw2GcW58HfwJvlwiyNn//aAAwDAQACAAMAAAAQu/8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHhAAAgICAgMAAAAAAAAAAAAAAREAMSGhUWGRsfD/2gAIAQEAAT8QLAq1mVuJdvxTh+KXISAklAJoYDUJ288AoPfR+p//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IMG 6869&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/f3a32/IMG_6869.jpg&quot;
-        srcset=&quot;/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/6ba01/IMG_6869.jpg 175w,
-/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/b8ff8/IMG_6869.jpg 350w,
-/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/f3a32/IMG_6869.jpg 700w,
-/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/61d28/IMG_6869.jpg 1050w,
-/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/be74e/IMG_6869.jpg 1400w,
-/typesetting/static/80eb94f5ae19b1d8a6e288471f5b67dc/ed3c4/IMG_6869.jpg 2016w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;IMG 6869&quot;
+        src=&quot;/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/98235/IMG_6869.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/df2c7/IMG_6869.jpg 450w,
+/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/2d017/IMG_6869.jpg 900w,
+/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/98235/IMG_6869.jpg 1800w,
+/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/110f7/IMG_6869.jpg 2016w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;For a typometer made by a company called «Bacher» I found two versions:&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1512px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f9e05/IMG_0752.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAXE1GVxyJHRNSLTSv//EABsQAAICAwEAAAAAAAAAAAAAAAIxAQMAETIS/9oACAEBAAEFAi8lNbPocBn1DB2db1NbJ//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAAMAAAAAAAAAAAAAAAAAABAhMP/aAAgBAQAGPwKKP//EABsQAAMBAAMBAAAAAAAAAAAAAAABESEQMVGh/9oACAEBAAE/IXwanCDPQbUP9HoKFGhWicn/AP/aAAwDAQACAAMAAAAQ2D2C/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EHD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhQTFRYbH/2gAIAQEAAT8QsVfIdN2Aguy4Q+KjAfT9jBQhouqgArdJUHlwCvw7F+zQ57PEShVdm3fqf//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAXE1GVxyJHRNSLTSv//EABsQAAICAwEAAAAAAAAAAAAAAAIxAQMAETIS/9oACAEBAAEFAi8lNbPocBn1DB2db1NbJ//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABYQAAMAAAAAAAAAAAAAAAAAABAhMP/aAAgBAQAGPwKKP//EABsQAAMBAAMBAAAAAAAAAAAAAAABESEQMVGh/9oACAEBAAE/IXwanCDPQbUP9HoKFGhWicn/AP/aAAwDAQACAAMAAAAQ2D2C/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EHD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhQTFRYbH/2gAIAQEAAT8QsVfIdN2Aguy4Q+KjAfT9jBQhouqgArdJUHlwCvw7F+zQ57PEShVdm3fqf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IMG 0752&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f3a32/IMG_0752.jpg&quot;
-        srcset=&quot;/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/6ba01/IMG_0752.jpg 175w,
-/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/b8ff8/IMG_0752.jpg 350w,
-/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f3a32/IMG_0752.jpg 700w,
-/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/61d28/IMG_0752.jpg 1050w,
-/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/be74e/IMG_0752.jpg 1400w,
-/typesetting/static/bc37f23ed5c2d3e37ee0d9de44c13f35/f9e05/IMG_0752.jpg 1512w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;IMG 0752&quot;
+        src=&quot;/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/df2c7/IMG_0752.jpg 450w,
+/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/2d017/IMG_0752.jpg 900w,
+/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg 1512w&quot;
+        sizes=&quot;(max-width: 1512px) 100vw, 1512px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;The one with the «wings» is probably one of my favorites;&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1512px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f9e05/IMG_4035.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFi0XzYFiFXedBqYi//xAAeEAACAgICAwAAAAAAAAAAAAABAgARAyISEyExMv/aAAgBAQABBQK6lUYPEVG4nMAe3IYmfVtmSH6b3//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EACAQAAECBgMBAAAAAAAAAAAAAAABEQIQEjFRcRMhQWH/2gAIAQEABj8Crx1FoaXwpxZSzj1NoTkd4fRVzJNS/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBURBxgZH/2gAIAQEAAT8hcO9KO+3yPbHDKqNWS1h9S0WR/KOQxc3UWUf4QtrmA79xmntdTbwiTCf/2gAMAwEAAgADAAAAEIApcP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAEDAQE/ENhFH//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAECAQE/ECn/xAAcEAEAAgIDAQAAAAAAAAAAAAABABExQSFRgXH/2gAIAQEAAT8QqMIq2/H1AoqQvuNMtwuYrBF2sznHyXt6fkaMVW95UBqTAAHkaNoehdNyqhdo1ANHFRPulZVFT//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFi0XzYFiFXedBqYi//xAAeEAACAgICAwAAAAAAAAAAAAABAgARAyISEyExMv/aAAgBAQABBQK6lUYPEVG4nMAe3IYmfVtmSH6b3//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EACAQAAECBgMBAAAAAAAAAAAAAAABEQIQEjFRcRMhQWH/2gAIAQEABj8Crx1FoaXwpxZSzj1NoTkd4fRVzJNS/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBURBxgZH/2gAIAQEAAT8hcO9KO+3yPbHDKqNWS1h9S0WR/KOQxc3UWUf4QtrmA79xmntdTbwiTCf/2gAMAwEAAgADAAAAEIApcP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAEDAQE/ENhFH//EABURAQEAAAAAAAAAAAAAAAAAABAB/9oACAECAQE/ECn/xAAcEAEAAwEAAwEAAAAAAAAAAAABABFBMSFRcYH/2gAIAQEAAT8QqMIq2/PqBRUhfuMZbwucrBF1dnnH5L14/I0Yqt35UBqTgAH5GjaH0LjZVQu0ZANHlRPfUqKoqf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;IMG 4035&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f3a32/IMG_4035.jpg&quot;
-        srcset=&quot;/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/6ba01/IMG_4035.jpg 175w,
-/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/b8ff8/IMG_4035.jpg 350w,
-/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f3a32/IMG_4035.jpg 700w,
-/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/61d28/IMG_4035.jpg 1050w,
-/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/be74e/IMG_4035.jpg 1400w,
-/typesetting/static/a9d7cab0fd358252538d0faacb0615e0/f9e05/IMG_4035.jpg 1512w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;IMG 4035&quot;
+        src=&quot;/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/df2c7/IMG_4035.jpg 450w,
+/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/2d017/IMG_4035.jpg 900w,
+/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg 1512w&quot;
+        sizes=&quot;(max-width: 1512px) 100vw, 1512px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[How cut out small print runs]]></title><description><![CDATA[Finding the right crop To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/cut-out-small-print-runs/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Finding the right crop&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to cut out small print runs]]></title><description><![CDATA[Finding the right crop  To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final…]]></description><link>https://typesetting.signalwerk.ch/posts/cut-out-small-print-runs/</link><guid isPermaLink="false">https://typesetting.signalwerk.ch/posts/cut-out-small-print-runs/</guid><pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Finding the right crop&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f98d7/IMG_8361_sh.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/6088e/IMG_8361_sh.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 149.9809233117131%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/aAAwDAQACEAMQAAABZTeCuYQZPWot0GSGQX//xAAbEAADAAMBAQAAAAAAAAAAAAAAAQIDEjERIf/aAAgBAQABBQJSh46q8bbU8lfcZPNJINmj3ZKUj//EABcRAQEBAQAAAAAAAAAAAAAAAAECEBH/2gAIAQMBAT8BJEwrmf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ASn/xAAdEAACAQQDAAAAAAAAAAAAAAAAAREDECFxIjFB/9oACAEBAAY/AjjUhaHL9tlD3aR7OyGYP//EABwQAQADAQADAQAAAAAAAAAAAAEAESExEGFxsf/aAAgBAQABPyFIYRvcjhbJfUpScIo0PWTn7zhEtIHdn6vGLVLHsGxU/9oADAMBAAIAAwAAABD0wH3/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAEDAQE/ECC8QSab/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAyTsRb/8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFBUWFx8P/aAAgBAQABPxBidwdzpOpkPVy0q6fiZpx2GHC7qAefvNf3cxHWaMCRhpBDd7hhEixhICmJaFA+ciBC2Vz/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 149.9809233117131%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/aAAwDAQACEAMQAAABZTeCuYQZPWot0GSGQX//xAAbEAADAAMBAQAAAAAAAAAAAAAAAQIDEjERIf/aAAgBAQABBQJSh46q8bbU8lfcZPNJINmj3ZKUj//EABcRAQEBAQAAAAAAAAAAAAAAAAECEBH/2gAIAQMBAT8BJEwrmf/EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/ASn/xAAdEAACAQQDAAAAAAAAAAAAAAAAAREDECFxIjFB/9oACAEBAAY/AjjUhaHL9tlD3aR7OyGYP//EABwQAQADAQADAQAAAAAAAAAAAAEAESExEGFxsf/aAAgBAQABPyFIYRvcjhbJfUpScIo0PWTn7zhEtIHdn6vGLVLHsGxU/9oADAMBAAIAAwAAABD0wH3/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAEDAQE/ECC8QSab/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAyTsRb/8QAHRABAQADAAIDAAAAAAAAAAAAAREAITFBUWFx8P/aAAgBAQABPxBidwdzpOpkPVy0q6fiZpx2GHC7qAefvNf3cxHWaMCRhpBDd7hhEixhICmJaFA+ciBC2Vz/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Cropping&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f3a32/IMG_8361_sh.jpg&quot;
-        srcset=&quot;/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/6ba01/IMG_8361_sh.jpg 175w,
-/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/b8ff8/IMG_8361_sh.jpg 350w,
-/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f3a32/IMG_8361_sh.jpg 700w,
-/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/61d28/IMG_8361_sh.jpg 1050w,
-/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/be74e/IMG_8361_sh.jpg 1400w,
-/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/bf62f/IMG_8361_sh.jpg 2100w,
-/typesetting/static/f87e3a68d62f598f9a8c5b1d185a6255/f98d7/IMG_8361_sh.jpg 2621w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;Cropping&quot;
+        src=&quot;/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/98235/IMG_8361_sh.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/df2c7/IMG_8361_sh.jpg 450w,
+/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/2d017/IMG_8361_sh.jpg 900w,
+/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/98235/IMG_8361_sh.jpg 1800w,
+/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/6088e/IMG_8361_sh.jpg 2621w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;To figure out the final crop I usually put masks – made out of gray cardboard – on the print. I consider the final proportion of the format and try to have some rational numbers (2:3, 3:5, ...).&lt;/p&gt;
 &lt;h2&gt;Making a Mask&lt;/h2&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/c6513120714576cd62e837f876234f11/2343d/IMG_8933_sh.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/d941d/IMG_8933_sh.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.68196420376319%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAF2pMxdBs7/AP/EABgQAAMBAQAAAAAAAAAAAAAAAAECIQAT/9oACAEBAAEFAkYBuibomIrJAZ//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAhES/9oACAEDAQE/AbZk/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAIT/9oACAECAQE/AWsv/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQETHh/9oACAEBAAY/AnZpyLTj/8QAGhAAAwADAQAAAAAAAAAAAAAAAAEREDFRYf/aAAgBAQABPyGopcSno6jcCaLI4f/aAAwDAQACAAMAAAAQCC//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFh/9oACAEDAQE/EBBlwv/EABURAQEAAAAAAAAAAAAAAAAAAABh/9oACAECAQE/EFX/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMVFB/9oACAEBAAE/EKb1kX7uDavXBiq0t1i5vXJQ81lPTjBeyS9z/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.68196420376319%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAF2pMxdBs7/AP/EABgQAAMBAQAAAAAAAAAAAAAAAAECIQAT/9oACAEBAAEFAkYBuibomIrJAZ//xAAXEQEAAwAAAAAAAAAAAAAAAAAAAhES/9oACAEDAQE/AbZk/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAIT/9oACAECAQE/AWsv/8QAGRAAAgMBAAAAAAAAAAAAAAAAAAEQETHh/9oACAEBAAY/AnZpyLTj/8QAGhAAAwADAQAAAAAAAAAAAAAAAAEREDFRYf/aAAgBAQABPyGopcSno6jcCaLI4f/aAAwDAQACAAMAAAAQCC//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFh/9oACAEDAQE/EBBlwv/EABURAQEAAAAAAAAAAAAAAAAAAABh/9oACAECAQE/EFX/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMVFB/9oACAEBAAE/EKb1kX7uDavXBiq0t1i5vXJQ81lPTjBeyS9z/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Example&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/c6513120714576cd62e837f876234f11/f3a32/IMG_8933_sh.jpg&quot;
-        srcset=&quot;/typesetting/static/c6513120714576cd62e837f876234f11/6ba01/IMG_8933_sh.jpg 175w,
-/typesetting/static/c6513120714576cd62e837f876234f11/b8ff8/IMG_8933_sh.jpg 350w,
-/typesetting/static/c6513120714576cd62e837f876234f11/f3a32/IMG_8933_sh.jpg 700w,
-/typesetting/static/c6513120714576cd62e837f876234f11/61d28/IMG_8933_sh.jpg 1050w,
-/typesetting/static/c6513120714576cd62e837f876234f11/be74e/IMG_8933_sh.jpg 1400w,
-/typesetting/static/c6513120714576cd62e837f876234f11/bf62f/IMG_8933_sh.jpg 2100w,
-/typesetting/static/c6513120714576cd62e837f876234f11/2343d/IMG_8933_sh.jpg 2179w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;Example&quot;
+        src=&quot;/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/98235/IMG_8933_sh.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/df2c7/IMG_8933_sh.jpg 450w,
+/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/2d017/IMG_8933_sh.jpg 900w,
+/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/98235/IMG_8933_sh.jpg 1800w,
+/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/d941d/IMG_8933_sh.jpg 2179w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;After I found the right spot I make a mask with tracing paper. On the tracing paper I make some markings of the print so I can easily place it on the next print. I take care its correct 90° angeled so the final product will not end up as rhomubs. In the corners I place a transparent tape to punch with the stitching awl through and mark therefore my final format on the print. Now I&apos;m able to crop it with a cutter.&lt;/p&gt;
 &lt;h3&gt;Thanks&lt;/h3&gt;
-&lt;p&gt;Thanks to &lt;a href=&quot;https://www.zhdk.ch/person/10417&quot;&gt;Rudolf Barmettler&lt;/a&gt; for showing me this technic&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Conference – Transformation of letter press]]></title><description><![CDATA[This weekend was the second run of the conference  «Transformationen des Buchdrucks»  (Transformation of letter press) with the topic…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/transformation-mainz-2018/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This weekend was the second run of the conference &lt;a href=&quot;https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied&quot;&gt;«Transformationen des Buchdrucks»&lt;/a&gt; (Transformation of letter press) with the topic «Haptiken» (haptics). Where as the first conference two years ago was held in Berlin this time the &lt;a href=&quot;http://www.gutenberg-museum.de/&quot;&gt;«Gutenberg-Museum Mainz»&lt;/a&gt; opened it&apos;s doors.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&quot;https://www.zhdk.ch/person/10417&quot;&gt;Rudolf Barmettler&lt;/a&gt; for showing me this technic&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Conference – Transformation of letter press]]></title><description><![CDATA[This weekend was the second run of the conference «Transformationen des Buchdrucks» (Transformation of letter press) with the topic…]]></description><link>https://typesetting.signalwerk.ch/posts/transformation-mainz-2018/</link><guid isPermaLink="false">https://typesetting.signalwerk.ch/posts/transformation-mainz-2018/</guid><pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This weekend was the second run of the conference &lt;a href=&quot;https://web.archive.org/web/20181118222128/https://www.interdisciplinary-laboratory.hu-berlin.de/de/content/transformationen-des-buchdrucks-2-haptiken/?content_type=mitglied&quot;&gt;«Transformationen des Buchdrucks»&lt;/a&gt; (Transformation of letter press) with the topic «Haptiken» (haptics). Where as the first conference two years ago was held in Berlin this time the &lt;a href=&quot;http://www.gutenberg-museum.de/&quot;&gt;«Gutenberg-Museum Mainz»&lt;/a&gt; opened it&apos;s doors.&lt;/p&gt;
 &lt;p&gt;There were many people from all over Germany and even some international Guests. The broad range of Speakers gave a good overview of several different Topics right now happening in the field of letter press.&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/2gAMAwEAAhADEAAAAYZ+haEvDER//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECAxMREv/aAAgBAQABBQLDqdDJJp71kXCw8I//xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQMBAT8BxH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAEQEhAgMi/9oACAEBAAY/AnmUKTtwPXJaP//EABsQAQACAgMAAAAAAAAAAAAAAAEAMRFRQWGR/9oACAEBAAE/ITReAhWgaiNMMTp0YqGOQGyL08T/2gAMAwEAAgADAAAAEL8//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/EAWx/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/ELqv/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARIUExUWGBof/aAAgBAQABPxAE0OcpjCtvFb9lOA4WaCfQFweKYfHAilPuUlhO9sn/2Q==&apos;); background-size: cover; display: block;&quot;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
     &gt;
-      &lt;img
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYCAwQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/2gAMAwEAAhADEAAAAYZ+haEvDER//8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECAxMREv/aAAgBAQABBQLDqdDJJp71kXCw8I//xAAWEQEBAQAAAAAAAAAAAAAAAAAAESH/2gAIAQMBAT8BxH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAEQEhAgMi/9oACAEBAAY/AnmUKTtwPXJaP//EABsQAQACAgMAAAAAAAAAAAAAAAEAMRFRQWGR/9oACAEBAAE/ITReAhWgaiNMMTp0YqGOQGyL08T/2gAMAwEAAgADAAAAEL8//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/EAWx/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/ELqv/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARIUExUWGBof/aAAgBAQABPxAE0OcpjCtvFb9lOA4WaCfQFweKYfHAilPuUlhO9sn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;conference impressions&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/b286476498834a9b4b3fe05849bb4693/f3a32/IMG_8644.jpg&quot;
-        srcset=&quot;/typesetting/static/b286476498834a9b4b3fe05849bb4693/6ba01/IMG_8644.jpg 175w,
-/typesetting/static/b286476498834a9b4b3fe05849bb4693/b8ff8/IMG_8644.jpg 350w,
-/typesetting/static/b286476498834a9b4b3fe05849bb4693/f3a32/IMG_8644.jpg 700w,
-/typesetting/static/b286476498834a9b4b3fe05849bb4693/61d28/IMG_8644.jpg 1050w,
-/typesetting/static/b286476498834a9b4b3fe05849bb4693/be74e/IMG_8644.jpg 1400w,
-/typesetting/static/b286476498834a9b4b3fe05849bb4693/bf62f/IMG_8644.jpg 2100w,
-/typesetting/static/b286476498834a9b4b3fe05849bb4693/b75f4/IMG_8644.jpg 4032w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;conference impressions&quot;
+        src=&quot;/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/98235/IMG_8644.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/df2c7/IMG_8644.jpg 450w,
+/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/2d017/IMG_8644.jpg 900w,
+/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/98235/IMG_8644.jpg 1800w,
+/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/b94e1/IMG_8644.jpg 2700w,
+/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/0d528/IMG_8644.jpg 3600w,
+/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/243ce/IMG_8644.jpg 4032w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;
-  &lt;/span&gt;
-  
 Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&gt;Lettertypen&lt;/a&gt; showed us during a break an output of his 1924 built press (Johannisberger Schnellpresse).&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABnsZRKxDCz//EABsQAAIDAAMAAAAAAAAAAAAAAAECAAMREyEy/9oACAEBAAEFAlpLIen5UlAbPUJq3//EABcRAAMBAAAAAAAAAAAAAAAAAAABEiH/2gAIAQMBAT8BWko//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABsQAAICAwEAAAAAAAAAAAAAAAABETECECFi/9oACAEBAAY/ApXWYSqRZ512z//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFhMVFxgf/aAAgBAQABPyGgLZ5UCxqYxDQ+QYXlAMUKO81LKu1E/9oADAMBAAIAAwAAABDjH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAUf/aAAgBAwEBPxAMdL//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EGppR//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQXGRwf/aAAgBAQABPxCwQ0Roa5G98S9KBh3iUD1KPkqhT2mnMsl1QfWBwVDWEn//2Q==&apos;); background-size: cover; display: block;&quot;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
     &gt;
-      &lt;img
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABnsZRKxDCz//EABsQAAIDAAMAAAAAAAAAAAAAAAECAAMREyEy/9oACAEBAAEFAlpLIen5UlAbPUJq3//EABcRAAMBAAAAAAAAAAAAAAAAAAABEiH/2gAIAQMBAT8BWko//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABsQAAICAwEAAAAAAAAAAAAAAAABETECECFi/9oACAEBAAY/ApXWYSqRZ512z//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFhMVFxgf/aAAgBAQABPyGgLZ5UCxqYxDQ+QYXlAMUKO81LKu1E/9oADAMBAAIAAwAAABDjH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAUf/aAAgBAwEBPxAMdL//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EGppR//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQXGRwf/aAAgBAQABPxCwQ0Roa5G98S9KBh3iUD1KPkqhT2mnMsl1QfWBwVDWEn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;conference impressions&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/f3a32/IMG_8613.jpg&quot;
-        srcset=&quot;/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/6ba01/IMG_8613.jpg 175w,
-/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/b8ff8/IMG_8613.jpg 350w,
-/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/f3a32/IMG_8613.jpg 700w,
-/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/61d28/IMG_8613.jpg 1050w,
-/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/be74e/IMG_8613.jpg 1400w,
-/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/bf62f/IMG_8613.jpg 2100w,
-/typesetting/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/b75f4/IMG_8613.jpg 4032w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;conference impressions&quot;
+        src=&quot;/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/98235/IMG_8613.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/df2c7/IMG_8613.jpg 450w,
+/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/2d017/IMG_8613.jpg 900w,
+/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/98235/IMG_8613.jpg 1800w,
+/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/b94e1/IMG_8613.jpg 2700w,
+/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/0d528/IMG_8613.jpg 3600w,
+/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/243ce/IMG_8613.jpg 4032w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;
-  &lt;/span&gt;
-  
 &lt;a href=&quot;https://www.babyinktwice.ch/&quot;&gt;Dafi Kühne&lt;/a&gt; after his talk showed the originals produced in his workshop. He also showed us his new Video-Series the &lt;a href=&quot;https://vimeo.com/channels/printingshow&quot;&gt;Printing Show™&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pin marks]]></title><description><![CDATA[Today I found in the workshop some cases with «Elementarschmuck»
  Patterns for security prints
  And a case with all the same patern
- Some of…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//posts/pin-marks/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//posts/pin-marks/</guid><pubDate>Mon, 05 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I found in the workshop some cases with «Elementarschmuck»
-
-  &lt;a
+  Some…]]></description><link>https://typesetting.signalwerk.ch/posts/pin-marks/</link><guid isPermaLink="false">https://typesetting.signalwerk.ch/posts/pin-marks/</guid><pubDate>Mon, 05 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I found in the workshop some cases with «Elementarschmuck»
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/8a534/IMG_8479.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/c2b56/IMG_8479.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAeLUzuqExyZ9Siv/xAAcEAEAAgIDAQAAAAAAAAAAAAABABECEgMhIjL/2gAIAQEAAQUCtFyyhad3TAZ62dpg9ZPu2cXz/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BIf/EABsQAAEEAwAAAAAAAAAAAAAAAAABEBExICFC/9oACAEBAAY/AsKZYk6Nilt//8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERITFBYXGB/9oACAEBAAE/IXCKWlwUu18LptjsicnQRKlDwEJ0hGWJGjbfg5W7Kshpvdn/2gAMAwEAAgADAAAAEIMt/f/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxDWFlg0v//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRH/2gAIAQIBAT8QyQtbLxv/xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhMUFRcZGx/9oACAEBAAE/EETIdL+zAAXszfVdYAgFZZXzFHL+y5sF6lrmvogUTub/AGU0KuVtAoRlqJ2AUbpjMtXJ8J//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAeLUzuqExyZ9Siv/xAAcEAEAAgIDAQAAAAAAAAAAAAABABECEgMhIjL/2gAIAQEAAQUCtFyyhad3TAZ62dpg9ZPu2cXz/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BIf/EABsQAAEEAwAAAAAAAAAAAAAAAAABEBExICFC/9oACAEBAAY/AsKZYk6Nilt//8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERITFBYXGB/9oACAEBAAE/IXCKWlwUu18LptjsicnQRKlDwEJ0hGWJGjbfg5W7Kshpvdn/2gAMAwEAAgADAAAAEIMt/f/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxDWFlg0v//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRH/2gAIAQIBAT8QyQtbLxv/xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhMUFRcZGx/9oACAEBAAE/EETIdL+zAAXszfVdYAgFZZXzFHL+y5sF6lrmvogUTub/AGU0KuVtAoRlqJ2AUbpjMtXJ8J//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;workshop impressions&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/f3a32/IMG_8479.jpg&quot;
-        srcset=&quot;/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/6ba01/IMG_8479.jpg 175w,
-/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/b8ff8/IMG_8479.jpg 350w,
-/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/f3a32/IMG_8479.jpg 700w,
-/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/61d28/IMG_8479.jpg 1050w,
-/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/be74e/IMG_8479.jpg 1400w,
-/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/bf62f/IMG_8479.jpg 2100w,
-/typesetting/static/623996f469f7aaaed7ba71c90af34d3d/8a534/IMG_8479.jpg 3024w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;workshop impressions&quot;
+        src=&quot;/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/98235/IMG_8479.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/df2c7/IMG_8479.jpg 450w,
+/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/2d017/IMG_8479.jpg 900w,
+/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/98235/IMG_8479.jpg 1800w,
+/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/b94e1/IMG_8479.jpg 2700w,
+/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/c2b56/IMG_8479.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Patterns for security prints
-
-  &lt;a
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/8a534/IMG_8474.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/c2b56/IMG_8474.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAFKOe6arPLTQ0cH/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECMhESIUH/2gAIAQEAAQUCk3udHf1Ilcwx3Qj/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwFjP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASE//8QAGBABAQADAAAAAAAAAAAAAAAAARAAITH/2gAIAQEABj8CdudjWt//xAAcEAADAQACAwAAAAAAAAAAAAAAARExIUFRkaH/2gAIAQEAAT8hgezyVt69lD9K0drkRBKOMUD5hDB//9oADAMBAAIAAwAAABDLJ33/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EE6yw6yF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAIAQIBAT8QRRYKTg2IVP/EAB8QAQACAgICAwAAAAAAAAAAAAEAESExQVFhsXGh0f/aAAgBAQABPxA1KrAGVG8VLyWl15du17hK27WkbEqXgAxEmsRUU5r1C0E648Sgqq+T9hCrp6gNCcj9TZg28eZ//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAFKOe6arPLTQ0cH/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECMhESIUH/2gAIAQEAAQUCk3udHf1Ilcwx3Qj/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwFjP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/ASE//8QAGBABAQADAAAAAAAAAAAAAAAAARAAITH/2gAIAQEABj8CdudjWt//xAAcEAADAQACAwAAAAAAAAAAAAAAARExIUFRkaH/2gAIAQEAAT8hgezyVt69lD9K0drkRBKOMUD5hDB//9oADAMBAAIAAwAAABDLJ33/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EE6yw6yF/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERITH/2gAIAQIBAT8QRRYKTg2IVP/EAB8QAQACAgICAwAAAAAAAAAAAAEAESExQVFhsXGh0f/aAAgBAQABPxA1KrAGVG8VLyWl15du17hK27WkbEqXgAxEmsRUU5r1C0E648Sgqq+T9hCrp6gNCcj9TZg28eZ//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;workshop impressions&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/f3a32/IMG_8474.jpg&quot;
-        srcset=&quot;/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/6ba01/IMG_8474.jpg 175w,
-/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/b8ff8/IMG_8474.jpg 350w,
-/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/f3a32/IMG_8474.jpg 700w,
-/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/61d28/IMG_8474.jpg 1050w,
-/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/be74e/IMG_8474.jpg 1400w,
-/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/bf62f/IMG_8474.jpg 2100w,
-/typesetting/static/a5ebb7b8796a237db4dc7ccf6fac33ec/8a534/IMG_8474.jpg 3024w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;workshop impressions&quot;
+        src=&quot;/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/98235/IMG_8474.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/df2c7/IMG_8474.jpg 450w,
+/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/2d017/IMG_8474.jpg 900w,
+/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/98235/IMG_8474.jpg 1800w,
+/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/b94e1/IMG_8474.jpg 2700w,
+/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/c2b56/IMG_8474.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;And a case with all the same patern
-
-  &lt;a
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/c0840a3888df9caa017160a5d05a83dc/8a534/IMG_8482.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/c2b56/IMG_8482.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAZT08CsSNGStYlMox//EABwQAAICAwEBAAAAAAAAAAAAAAECAAMQESESMv/aAAgBAQABBQKwafpifByx6TB51WoaGtcf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAEDAQE/AVTP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQEf/aAAgBAgEBPwG5KZ//xAAaEAACAwEBAAAAAAAAAAAAAAAAARARITEg/9oACAEBAAY/ArR1i8ZCs05H/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERITFBUXFhgdH/2gAIAQEAAT8h1pU0aGwp0iS/REaJpdCkngN5J9yDAZF19Dyf/9oADAMBAAIAAwAAABDoM43/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEQ/9oACAEDAQE/EM4Gmzf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/ELDQk4xH/8QAHhABAAMBAAEFAAAAAAAAAAAAAQARITHRQWFxgaH/2gAIAQEAAT8Q9cCMDHdinSXo1UNBLYAMVeq92U1Y+SLAFCmRCuHkwRgPuWp8rl3wc1JZD9vMTYvmT//Z&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAZT08CsSNGStYlMox//EABwQAAICAwEBAAAAAAAAAAAAAAECAAMQESESMv/aAAgBAQABBQKwafpifByx6TB51WoaGtcf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEQ/9oACAEDAQE/AVTP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQEf/aAAgBAgEBPwG5KZ//xAAaEAACAwEBAAAAAAAAAAAAAAAAARARITEg/9oACAEBAAY/ArR1i8ZCs05H/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERITFBUXFhgdH/2gAIAQEAAT8h1pU0aGwp0iS/REaJpdCkngN5J9yDAZF19Dyf/9oADAMBAAIAAwAAABDoM43/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEQ/9oACAEDAQE/EM4Gmzf/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/ELDQk4xH/8QAHhABAAMBAAEFAAAAAAAAAAAAAQARITHRQWFxgaH/2gAIAQEAAT8Q9cCMDHdinSXo1UNBLYAMVeq92U1Y+SLAFCmRCuHkwRgPuWp8rl3wc1JZD9vMTYvmT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;workshop impressions&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/c0840a3888df9caa017160a5d05a83dc/f3a32/IMG_8482.jpg&quot;
-        srcset=&quot;/typesetting/static/c0840a3888df9caa017160a5d05a83dc/6ba01/IMG_8482.jpg 175w,
-/typesetting/static/c0840a3888df9caa017160a5d05a83dc/b8ff8/IMG_8482.jpg 350w,
-/typesetting/static/c0840a3888df9caa017160a5d05a83dc/f3a32/IMG_8482.jpg 700w,
-/typesetting/static/c0840a3888df9caa017160a5d05a83dc/61d28/IMG_8482.jpg 1050w,
-/typesetting/static/c0840a3888df9caa017160a5d05a83dc/be74e/IMG_8482.jpg 1400w,
-/typesetting/static/c0840a3888df9caa017160a5d05a83dc/bf62f/IMG_8482.jpg 2100w,
-/typesetting/static/c0840a3888df9caa017160a5d05a83dc/8a534/IMG_8482.jpg 3024w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;workshop impressions&quot;
+        src=&quot;/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/98235/IMG_8482.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/df2c7/IMG_8482.jpg 450w,
+/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/2d017/IMG_8482.jpg 900w,
+/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/98235/IMG_8482.jpg 1800w,
+/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/b94e1/IMG_8482.jpg 2700w,
+/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/c2b56/IMG_8482.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/8a534/IMG_8492.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/c2b56/IMG_8492.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAaVPzm1kwM0ZmaB//8QAGhAAAwADAQAAAAAAAAAAAAAAAAESERMhIP/aAAgBAQABBQKjYWZ4uslEox4//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJP/8QAGhABAAMAAwAAAAAAAAAAAAAAAQAQESExQf/aAAgBAQABPyFYxVXOouGtKkTyHVf/2gAMAwEAAgADAAAAEHf7Qf/EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxBw/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFBUYH/2gAIAQEAAT8QtwzTstm+S6Wl/Yal8u/2OvaiUUbGdiuS17KgEvZ//9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAaVPzm1kwM0ZmaB//8QAGhAAAwADAQAAAAAAAAAAAAAAAAESERMhIP/aAAgBAQABBQKjYWZ4uslEox4//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJP/8QAGhABAAMAAwAAAAAAAAAAAAAAAQAQESExQf/aAAgBAQABPyFYxVXOouGtKkTyHVf/2gAMAwEAAgADAAAAEHf7Qf/EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxBw/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITFBUYH/2gAIAQEAAT8QtwzTstm+S6Wl/Yal8u/2OvaiUUbGdiuS17KgEvZ//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;workshop impressions&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/f3a32/IMG_8492.jpg&quot;
-        srcset=&quot;/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/6ba01/IMG_8492.jpg 175w,
-/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/b8ff8/IMG_8492.jpg 350w,
-/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/f3a32/IMG_8492.jpg 700w,
-/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/61d28/IMG_8492.jpg 1050w,
-/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/be74e/IMG_8492.jpg 1400w,
-/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/bf62f/IMG_8492.jpg 2100w,
-/typesetting/static/173bde4eee787e0bb8b0489b2500b51c/8a534/IMG_8492.jpg 3024w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;workshop impressions&quot;
+        src=&quot;/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/98235/IMG_8492.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/df2c7/IMG_8492.jpg 450w,
+/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/2d017/IMG_8492.jpg 900w,
+/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/98235/IMG_8492.jpg 1800w,
+/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/b94e1/IMG_8492.jpg 2700w,
+/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/c2b56/IMG_8492.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Some of them have markings on the side&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/typesetting/static/3c314675588668a2b4ec0108e34c0dda/8a534/IMG_8490.jpg&quot;
+    href=&quot;/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/c2b56/IMG_8490.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAbCAYAAAB836/YAAAACXBIWXMAAAsSAAALEgHS3X78AAAGEUlEQVRIxyVVaW8TVxSd39RVqlqWiFbQsG8JhbAkEJwF4tiOHce7xzP2zNgzXmY83h1sp2wBitoioEK0akvTUtG9SAj1A3/k9LzJh6s38959567nPunOwMYXGy7uDl1sDlzcptwZNnH/egd3Ry3c6Nq4te56cqPn4PY1Fzf7DnUbuN6t4mbP9nQf3RvhuwebkIYNAxttExsdC4OmiVG7zNXiWsGwVcG6a6JrG+jWNH6X0HOK6HMdtsr81tGzdQypLww92BxA6tkFdGp5dB0N7VoBbVuDaync0z1pVAqo879hqaiXZDhFGTalUc5zL8f/DNoV1TOwycikhiUTIItmRUFZT8EsJGAVkqjxcpViaSnuZ2DmkzByayipcRTVBFfq5RMw1RhcU/ai2OjWCFjJwS1TCFjiocELhrK9lghscM/01jh0OYp8JgIlHYFO8CLFyK6iqqfRqhYwoJeSXUzBKVEIqitUysc9UdJhD6RAkCI9MZTtbyF5gmgEy2fCHmBFS9MpFR3mVHLLMurlDGpmlkq8kFv1vBIXxSouC0P5bBQqvfN0eCZWlYCFbIQpSsA2c2hU85BatoqWUyBgBrlUEOm1JeSSIWQTy/wPIZdegcKLscgVREPzXBcR53c2EaBekJGEUGJElsa8E5Q5ZEJdDU0CF+RVJNcCkJmjdIwXCKrTYyWzgkhoDuGAD2vhRawE5hAJziMR9fNOhLmOwyRg2UhDatsKAQvMYQbh0AImzvlw6vwcZnxLWPDHsLAwR5A5rCxfxvkzxxh6DBv9JqWBXtPBerPK1Kx5gKaWYMi1HNqOCjUbxMz5CYx/Oo6x3WM4uH8/xvbsw/GjB/HZyXEcObgHe3a9D43h3x3WUaK+zpSsNyxGswSN0RXzMXroKGjRy3T8KqbPnsDksUNomkV8fWOImbOncOTAx5g4tpdg72Hnh28hu+Zng2dQYL7VuB9VLc68X4XKXApPpWaVLKjKzN0iLpw9jsDCJTy8PcLWN18iFrqCk0fHce70Yezfu8MDzLBogl1uia1ixFFWo0ixUAoNGMJDUZB2vYBs0u8BLlyaQo25KLEtfNOnMTV5GKdOjOPAvh0Y2/EOKnoSfzx7jD9/eoh7AwuWvIL4ig9ywu9VXOq3iuhyQMjJZcyc2wYsJAPIrC4iuuzD9NRxnKWHh8Z3Y2znu+RxBv/9tYU3//yM5082YesxpKILyDCPSjoIadC10G0ayCSWMDt9ErGgD1W2gc5WCV+dhe/iaVyYOorD+8e8PJbZxK9//xGvf/sBL395hHUnT8BFNnmIHI8KQBM9eikAfRcnEFmaJlgIDTJHSQSxfGUG584c8QB3f/S2x9uXz7/FqxcE3HoMR2dRCKjnIqiRxlKnzlHlKmybAOZmJxHxz6BCS90aWykRQjQwy6IcYsi7vKKUyOm/t57izb/P8erXJzBoPMX0aHKYFJZFlbNsbJWjKoEQwYo8qLEVLA6GdMSPVf8lzF+chG9mAns/+YAhJ/H6xTO8ev4U3381ImCYQyLoDZgOw5ccM0na5diUUWTiS+hz0N5ar2LQKKHJoVoi9QJXLiAensdlpiRPnm89vo+n9zdws23BIE1N3hUE6dYJaJeS/JFJ8KjX8To7XmbDilATK/NYC85ilRKhp2tsj2jwMvcXvLM4+Z0it3VGJTA6ZJzU5segbaDn5jm5M6wUh6ay6lUsz0prItkMp8ZGbjGvjpXmGUcc93PsPZ192K4pGHaKxClCGnVKuDWs4XrfwrVmAUNu9uoa3ddoxOAbk/eAOhxxffZrjyQQ50PRbnXxBim8p+F6z+JDZxKwXcKNPh+YUY2vGZVdoaR6yl1Xh6CmAGxVVUbAB0pQjtXsCEPVnOddl6GOGOWI7Sc1GUKPVj6np12uzXKWr1mW4DonieEBitetzr5sEEg8auJBEx63+B7ZpKK406cD10hjqc6idNg666xQvZiAQ8LXizTibofdFnnjNLc5PG3u1/SEB95li/TopWOkCEiPabhNA5LgYqcqe6DVQhQVVrtC6nmeUaFOb8VDViHlhFQJKP77DLPNae8Y7BIC9pgmYeB/j45tXio2q70AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAdJhZvQZBSpDGH//xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIRAyAhIjL/2gAIAQEAAQUCssUiXrEnJlcw6NLT/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAIDFR/9oACAEBAAY/AnsLJ7X/xAAaEAEBAQEBAQEAAAAAAAAAAAABABFBITFR/9oACAEBAAE/IVluTL0tRhyL/HDts/TIpgOP28Lpdi//2gAMAwEAAgADAAAAEEvlMf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABoQAAMBAQEBAAAAAAAAAAAAAAABETEhQWH/2gAIAQEAAT8QYSnbRReiNFFVcb5Ri2xLUFV89H12bU0dOIR4ILZX9K9PBMYR/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;workshop impressions&quot;
-        title=&quot;&quot;
-        src=&quot;/typesetting/static/3c314675588668a2b4ec0108e34c0dda/f3a32/IMG_8490.jpg&quot;
-        srcset=&quot;/typesetting/static/3c314675588668a2b4ec0108e34c0dda/6ba01/IMG_8490.jpg 175w,
-/typesetting/static/3c314675588668a2b4ec0108e34c0dda/b8ff8/IMG_8490.jpg 350w,
-/typesetting/static/3c314675588668a2b4ec0108e34c0dda/f3a32/IMG_8490.jpg 700w,
-/typesetting/static/3c314675588668a2b4ec0108e34c0dda/61d28/IMG_8490.jpg 1050w,
-/typesetting/static/3c314675588668a2b4ec0108e34c0dda/be74e/IMG_8490.jpg 1400w,
-/typesetting/static/3c314675588668a2b4ec0108e34c0dda/bf62f/IMG_8490.jpg 2100w,
-/typesetting/static/3c314675588668a2b4ec0108e34c0dda/8a534/IMG_8490.jpg 3024w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        title=&quot;workshop impressions&quot;
+        src=&quot;/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/98235/IMG_8490.jpg&quot;
+        srcset=&quot;/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/df2c7/IMG_8490.jpg 450w,
+/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/2d017/IMG_8490.jpg 900w,
+/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/98235/IMG_8490.jpg 1800w,
+/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/b94e1/IMG_8490.jpg 2700w,
+/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/c2b56/IMG_8490.jpg 3024w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[this is a stub! don't read! Correct Collors Die  Lettertypen  kennen einen Lieferanten, der Farben mit Leinöl liefert. Colors To print in…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/colors/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;this is a stub! don&apos;t read!&lt;/h1&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The pin marks (Gießmarke) indicate they are comming from &lt;a href=&quot;https://en.wikipedia.org/wiki/Schelter_%26_Giesecke_Type_Foundry&quot;&gt;Schelter &amp;#x26; Giesecke&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Colors]]></title><description><![CDATA[this is a stub! don't read! Correct Collors Die Lettertypen kennen einen Lieferanten, der Farben mit Leinöl liefert. Colors To print in…]]></description><link>https://typesetting.signalwerk.ch/articles/colors/</link><guid isPermaLink="false">https://typesetting.signalwerk.ch/articles/colors/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;this is a stub! don&apos;t read!&lt;/h1&gt;
 &lt;h2&gt;Correct Collors&lt;/h2&gt;
 &lt;p&gt;Die &lt;a href=&quot;https://www.lettertypen.de/&quot;&gt;Lettertypen&lt;/a&gt; kennen einen Lieferanten, der Farben mit Leinöl liefert.&lt;/p&gt;
 &lt;h2&gt;Colors&lt;/h2&gt;
@@ -570,8 +464,8 @@ CH-8645 Jona  &lt;/p&gt;
 &lt;h3&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://vimeo.com/78230375&quot;&gt;Four-color Letterpress Printing of the National Geographic Magazine in the Nineteen Fifties and Sixties&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Wooden Letters]]></title><description><![CDATA[CNC If you produce your own wood type. It's best to take pear wood («Stirnholz»)  .
-I also saw good examples made with «Filmbeschichtete…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/wooden-letters/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/wooden-letters/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;CNC&lt;/h2&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Wooden Letters]]></title><description><![CDATA[CNC If you produce your own wood type. It's best to take pear wood («Stirnholz») .
+I also saw good examples made with «Filmbeschichtete…]]></description><link>https://typesetting.signalwerk.ch/articles/wooden-letters/</link><guid isPermaLink="false">https://typesetting.signalwerk.ch/articles/wooden-letters/</guid><pubDate>Sun, 04 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;CNC&lt;/h2&gt;
 &lt;p&gt;If you produce your own wood type. It&apos;s best to take pear wood («Stirnholz») &lt;sup id=&quot;fnref-pear&quot;&gt;&lt;a href=&quot;#fn-pear&quot; class=&quot;footnote-ref&quot;&gt;pear&lt;/a&gt;&lt;/sup&gt;.
 I also saw good examples made with «Filmbeschichtete Birkensperrholzplatte» (Formica/Resopal) &lt;sup id=&quot;fnref-p98a&quot;&gt;&lt;a href=&quot;#fn-p98a&quot; class=&quot;footnote-ref&quot;&gt;p98a&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;

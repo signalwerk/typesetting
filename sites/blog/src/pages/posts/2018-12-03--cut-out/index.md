@@ -1,5 +1,5 @@
 ---
-title: How cut out small print runs
+title: How to cut out small print runs
 author: "Stefan Huber"
 date: "2018-12-03"
 layout: post

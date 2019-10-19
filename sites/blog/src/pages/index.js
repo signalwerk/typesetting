@@ -1,7 +1,7 @@
-import React from "react";
-import { graphql } from "gatsby";
+import React from 'react'
+import { graphql } from 'gatsby'
 
-import Index from "gatsby-theme-signalwerk/src/pages";
+import Index from 'gatsby-theme-signalwerk/src/pages'
 
 class PageIndex extends React.Component {
   render() {
@@ -9,11 +9,11 @@ class PageIndex extends React.Component {
       <React.Fragment>
         <Index {...this.props} />
       </React.Fragment>
-    );
+    )
   }
 }
 
-export default PageIndex;
+export default PageIndex
 
 export const homeQuery = graphql`
   query {
@@ -28,9 +28,7 @@ export const homeQuery = graphql`
     post: mdx(fields: { slug: { eq: "root" } }) {
       id
       excerpt
-      code {
-        body
-      }
+      body
       frontmatter {
         title
         author
@@ -63,4 +61,4 @@ export const homeQuery = graphql`
       }
     }
   }
-`;
+`

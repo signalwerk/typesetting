@@ -8,7 +8,8 @@
   "scripts": {
     "build": "yarn workspace typesetting.blog build",
     "start": "yarn develop",
-    "develop": "yarn workspace typesetting.blog develop"
+    "develop": "yarn workspace typesetting.blog develop",
+    "clear": "rm -rf sites/blog/.cache/"
   },
   "workspaces": [
     "themes/*",

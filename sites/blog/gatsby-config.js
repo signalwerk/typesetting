@@ -1,5 +1,5 @@
 module.exports = {
-  // pathPrefix: `/`,
+  // pathPrefix: `/blog`,
 
   __experimentalThemes: [
     {

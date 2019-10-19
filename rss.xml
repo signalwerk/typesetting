@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[Some experiments in typesetting ]]></description><link>https://typesetting.signalwerk.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Oct 2019 23:43:47 GMT</lastBuildDate><item><title><![CDATA[Typesetting]]></title><description><![CDATA[Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0]]></description><link>https://typesetting.signalwerk.chroot</link><guid isPermaLink="false">https://typesetting.signalwerk.chroot</guid><content:encoded>&lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Typesetting Blog]]></title><description><![CDATA[Some experiments in typesetting ]]></description><link>https://typesetting.signalwerk.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Oct 2019 23:53:35 GMT</lastBuildDate><item><title><![CDATA[Typesetting]]></title><description><![CDATA[Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0]]></description><link>https://typesetting.signalwerk.chroot</link><guid isPermaLink="false">https://typesetting.signalwerk.chroot</guid><content:encoded>&lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;</content:encoded></item><item><title><![CDATA[Typometer Deisgns]]></title><description><![CDATA[1997 – Who remembers «DTP»?!  When I startet 1997 my apprenticeship I got my first typometer from the company/magazine Page. The design was…]]></description><link>https://typesetting.signalwerk.ch/posts/typometer-designs/</link><guid isPermaLink="false">https://typesetting.signalwerk.ch/posts/typometer-designs/</guid><pubDate>Mon, 15 Apr 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;1997 – Who remembers «DTP»?!&lt;/h2&gt;
 &lt;p&gt;&lt;span
@@ -7,7 +7,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg&quot;
+    href=&quot;/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -20,10 +20,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;IMG 7020&quot;
         title=&quot;IMG 7020&quot;
-        src=&quot;/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/df2c7/IMG_7020.jpg 450w,
-/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/2d017/IMG_7020.jpg 900w,
-/gatsby-starter-blog/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg 1512w&quot;
+        src=&quot;/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg&quot;
+        srcset=&quot;/static/a26e89168ceee28bad59aafa7a7ff0e6/df2c7/IMG_7020.jpg 450w,
+/static/a26e89168ceee28bad59aafa7a7ff0e6/2d017/IMG_7020.jpg 900w,
+/static/a26e89168ceee28bad59aafa7a7ff0e6/e06e9/IMG_7020.jpg 1512w&quot;
         sizes=&quot;(max-width: 1512px) 100vw, 1512px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -37,7 +37,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/9a7a7/Typometer2008.jpg&quot;
+    href=&quot;/static/7a8ac8b2445f6afca782af36d46731b1/9a7a7/Typometer2008.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -50,13 +50,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Typometer2008&quot;
         title=&quot;Typometer2008&quot;
-        src=&quot;/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/98235/Typometer2008.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/df2c7/Typometer2008.jpg 450w,
-/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/2d017/Typometer2008.jpg 900w,
-/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/98235/Typometer2008.jpg 1800w,
-/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/b94e1/Typometer2008.jpg 2700w,
-/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/0d528/Typometer2008.jpg 3600w,
-/gatsby-starter-blog/static/7a8ac8b2445f6afca782af36d46731b1/9a7a7/Typometer2008.jpg 3780w&quot;
+        src=&quot;/static/7a8ac8b2445f6afca782af36d46731b1/98235/Typometer2008.jpg&quot;
+        srcset=&quot;/static/7a8ac8b2445f6afca782af36d46731b1/df2c7/Typometer2008.jpg 450w,
+/static/7a8ac8b2445f6afca782af36d46731b1/2d017/Typometer2008.jpg 900w,
+/static/7a8ac8b2445f6afca782af36d46731b1/98235/Typometer2008.jpg 1800w,
+/static/7a8ac8b2445f6afca782af36d46731b1/b94e1/Typometer2008.jpg 2700w,
+/static/7a8ac8b2445f6afca782af36d46731b1/0d528/Typometer2008.jpg 3600w,
+/static/7a8ac8b2445f6afca782af36d46731b1/9a7a7/Typometer2008.jpg 3780w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -69,7 +69,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/110f7/IMG_4429.jpg&quot;
+    href=&quot;/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/110f7/IMG_4429.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -82,11 +82,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;IMG 4429&quot;
         title=&quot;IMG 4429&quot;
-        src=&quot;/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/98235/IMG_4429.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/df2c7/IMG_4429.jpg 450w,
-/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/2d017/IMG_4429.jpg 900w,
-/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/98235/IMG_4429.jpg 1800w,
-/gatsby-starter-blog/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/110f7/IMG_4429.jpg 2016w&quot;
+        src=&quot;/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/98235/IMG_4429.jpg&quot;
+        srcset=&quot;/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/df2c7/IMG_4429.jpg 450w,
+/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/2d017/IMG_4429.jpg 900w,
+/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/98235/IMG_4429.jpg 1800w,
+/static/80bdd609d9d2f4c29413f9bf7bd1d7c6/110f7/IMG_4429.jpg 2016w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -100,7 +100,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/110f7/IMG_6869.jpg&quot;
+    href=&quot;/static/80eb94f5ae19b1d8a6e288471f5b67dc/110f7/IMG_6869.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -113,11 +113,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;IMG 6869&quot;
         title=&quot;IMG 6869&quot;
-        src=&quot;/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/98235/IMG_6869.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/df2c7/IMG_6869.jpg 450w,
-/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/2d017/IMG_6869.jpg 900w,
-/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/98235/IMG_6869.jpg 1800w,
-/gatsby-starter-blog/static/80eb94f5ae19b1d8a6e288471f5b67dc/110f7/IMG_6869.jpg 2016w&quot;
+        src=&quot;/static/80eb94f5ae19b1d8a6e288471f5b67dc/98235/IMG_6869.jpg&quot;
+        srcset=&quot;/static/80eb94f5ae19b1d8a6e288471f5b67dc/df2c7/IMG_6869.jpg 450w,
+/static/80eb94f5ae19b1d8a6e288471f5b67dc/2d017/IMG_6869.jpg 900w,
+/static/80eb94f5ae19b1d8a6e288471f5b67dc/98235/IMG_6869.jpg 1800w,
+/static/80eb94f5ae19b1d8a6e288471f5b67dc/110f7/IMG_6869.jpg 2016w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -130,7 +130,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg&quot;
+    href=&quot;/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -143,10 +143,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;IMG 0752&quot;
         title=&quot;IMG 0752&quot;
-        src=&quot;/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/df2c7/IMG_0752.jpg 450w,
-/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/2d017/IMG_0752.jpg 900w,
-/gatsby-starter-blog/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg 1512w&quot;
+        src=&quot;/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg&quot;
+        srcset=&quot;/static/bc37f23ed5c2d3e37ee0d9de44c13f35/df2c7/IMG_0752.jpg 450w,
+/static/bc37f23ed5c2d3e37ee0d9de44c13f35/2d017/IMG_0752.jpg 900w,
+/static/bc37f23ed5c2d3e37ee0d9de44c13f35/e06e9/IMG_0752.jpg 1512w&quot;
         sizes=&quot;(max-width: 1512px) 100vw, 1512px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -159,7 +159,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg&quot;
+    href=&quot;/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -172,10 +172,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;IMG 4035&quot;
         title=&quot;IMG 4035&quot;
-        src=&quot;/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/df2c7/IMG_4035.jpg 450w,
-/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/2d017/IMG_4035.jpg 900w,
-/gatsby-starter-blog/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg 1512w&quot;
+        src=&quot;/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg&quot;
+        srcset=&quot;/static/a9d7cab0fd358252538d0faacb0615e0/df2c7/IMG_4035.jpg 450w,
+/static/a9d7cab0fd358252538d0faacb0615e0/2d017/IMG_4035.jpg 900w,
+/static/a9d7cab0fd358252538d0faacb0615e0/e06e9/IMG_4035.jpg 1512w&quot;
         sizes=&quot;(max-width: 1512px) 100vw, 1512px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -187,7 +187,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/6088e/IMG_8361_sh.jpg&quot;
+    href=&quot;/static/f87e3a68d62f598f9a8c5b1d185a6255/6088e/IMG_8361_sh.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -200,11 +200,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Cropping&quot;
         title=&quot;Cropping&quot;
-        src=&quot;/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/98235/IMG_8361_sh.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/df2c7/IMG_8361_sh.jpg 450w,
-/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/2d017/IMG_8361_sh.jpg 900w,
-/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/98235/IMG_8361_sh.jpg 1800w,
-/gatsby-starter-blog/static/f87e3a68d62f598f9a8c5b1d185a6255/6088e/IMG_8361_sh.jpg 2621w&quot;
+        src=&quot;/static/f87e3a68d62f598f9a8c5b1d185a6255/98235/IMG_8361_sh.jpg&quot;
+        srcset=&quot;/static/f87e3a68d62f598f9a8c5b1d185a6255/df2c7/IMG_8361_sh.jpg 450w,
+/static/f87e3a68d62f598f9a8c5b1d185a6255/2d017/IMG_8361_sh.jpg 900w,
+/static/f87e3a68d62f598f9a8c5b1d185a6255/98235/IMG_8361_sh.jpg 1800w,
+/static/f87e3a68d62f598f9a8c5b1d185a6255/6088e/IMG_8361_sh.jpg 2621w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -218,7 +218,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/d941d/IMG_8933_sh.jpg&quot;
+    href=&quot;/static/c6513120714576cd62e837f876234f11/d941d/IMG_8933_sh.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -231,11 +231,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Example&quot;
         title=&quot;Example&quot;
-        src=&quot;/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/98235/IMG_8933_sh.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/df2c7/IMG_8933_sh.jpg 450w,
-/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/2d017/IMG_8933_sh.jpg 900w,
-/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/98235/IMG_8933_sh.jpg 1800w,
-/gatsby-starter-blog/static/c6513120714576cd62e837f876234f11/d941d/IMG_8933_sh.jpg 2179w&quot;
+        src=&quot;/static/c6513120714576cd62e837f876234f11/98235/IMG_8933_sh.jpg&quot;
+        srcset=&quot;/static/c6513120714576cd62e837f876234f11/df2c7/IMG_8933_sh.jpg 450w,
+/static/c6513120714576cd62e837f876234f11/2d017/IMG_8933_sh.jpg 900w,
+/static/c6513120714576cd62e837f876234f11/98235/IMG_8933_sh.jpg 1800w,
+/static/c6513120714576cd62e837f876234f11/d941d/IMG_8933_sh.jpg 2179w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -257,13 +257,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;conference impressions&quot;
         title=&quot;conference impressions&quot;
-        src=&quot;/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/98235/IMG_8644.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/df2c7/IMG_8644.jpg 450w,
-/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/2d017/IMG_8644.jpg 900w,
-/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/98235/IMG_8644.jpg 1800w,
-/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/b94e1/IMG_8644.jpg 2700w,
-/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/0d528/IMG_8644.jpg 3600w,
-/gatsby-starter-blog/static/b286476498834a9b4b3fe05849bb4693/243ce/IMG_8644.jpg 4032w&quot;
+        src=&quot;/static/b286476498834a9b4b3fe05849bb4693/98235/IMG_8644.jpg&quot;
+        srcset=&quot;/static/b286476498834a9b4b3fe05849bb4693/df2c7/IMG_8644.jpg 450w,
+/static/b286476498834a9b4b3fe05849bb4693/2d017/IMG_8644.jpg 900w,
+/static/b286476498834a9b4b3fe05849bb4693/98235/IMG_8644.jpg 1800w,
+/static/b286476498834a9b4b3fe05849bb4693/b94e1/IMG_8644.jpg 2700w,
+/static/b286476498834a9b4b3fe05849bb4693/0d528/IMG_8644.jpg 3600w,
+/static/b286476498834a9b4b3fe05849bb4693/243ce/IMG_8644.jpg 4032w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -281,13 +281,13 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;conference impressions&quot;
         title=&quot;conference impressions&quot;
-        src=&quot;/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/98235/IMG_8613.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/df2c7/IMG_8613.jpg 450w,
-/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/2d017/IMG_8613.jpg 900w,
-/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/98235/IMG_8613.jpg 1800w,
-/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/b94e1/IMG_8613.jpg 2700w,
-/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/0d528/IMG_8613.jpg 3600w,
-/gatsby-starter-blog/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/243ce/IMG_8613.jpg 4032w&quot;
+        src=&quot;/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/98235/IMG_8613.jpg&quot;
+        srcset=&quot;/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/df2c7/IMG_8613.jpg 450w,
+/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/2d017/IMG_8613.jpg 900w,
+/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/98235/IMG_8613.jpg 1800w,
+/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/b94e1/IMG_8613.jpg 2700w,
+/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/0d528/IMG_8613.jpg 3600w,
+/static/1c8ec5ebe4b7ac372b55cd033b1e6f04/243ce/IMG_8613.jpg 4032w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -302,7 +302,7 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/c2b56/IMG_8479.jpg&quot;
+    href=&quot;/static/623996f469f7aaaed7ba71c90af34d3d/c2b56/IMG_8479.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -315,12 +315,12 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;workshop impressions&quot;
         title=&quot;workshop impressions&quot;
-        src=&quot;/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/98235/IMG_8479.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/df2c7/IMG_8479.jpg 450w,
-/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/2d017/IMG_8479.jpg 900w,
-/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/98235/IMG_8479.jpg 1800w,
-/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/b94e1/IMG_8479.jpg 2700w,
-/gatsby-starter-blog/static/623996f469f7aaaed7ba71c90af34d3d/c2b56/IMG_8479.jpg 3024w&quot;
+        src=&quot;/static/623996f469f7aaaed7ba71c90af34d3d/98235/IMG_8479.jpg&quot;
+        srcset=&quot;/static/623996f469f7aaaed7ba71c90af34d3d/df2c7/IMG_8479.jpg 450w,
+/static/623996f469f7aaaed7ba71c90af34d3d/2d017/IMG_8479.jpg 900w,
+/static/623996f469f7aaaed7ba71c90af34d3d/98235/IMG_8479.jpg 1800w,
+/static/623996f469f7aaaed7ba71c90af34d3d/b94e1/IMG_8479.jpg 2700w,
+/static/623996f469f7aaaed7ba71c90af34d3d/c2b56/IMG_8479.jpg 3024w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -333,7 +333,7 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/c2b56/IMG_8474.jpg&quot;
+    href=&quot;/static/a5ebb7b8796a237db4dc7ccf6fac33ec/c2b56/IMG_8474.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -346,12 +346,12 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;workshop impressions&quot;
         title=&quot;workshop impressions&quot;
-        src=&quot;/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/98235/IMG_8474.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/df2c7/IMG_8474.jpg 450w,
-/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/2d017/IMG_8474.jpg 900w,
-/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/98235/IMG_8474.jpg 1800w,
-/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/b94e1/IMG_8474.jpg 2700w,
-/gatsby-starter-blog/static/a5ebb7b8796a237db4dc7ccf6fac33ec/c2b56/IMG_8474.jpg 3024w&quot;
+        src=&quot;/static/a5ebb7b8796a237db4dc7ccf6fac33ec/98235/IMG_8474.jpg&quot;
+        srcset=&quot;/static/a5ebb7b8796a237db4dc7ccf6fac33ec/df2c7/IMG_8474.jpg 450w,
+/static/a5ebb7b8796a237db4dc7ccf6fac33ec/2d017/IMG_8474.jpg 900w,
+/static/a5ebb7b8796a237db4dc7ccf6fac33ec/98235/IMG_8474.jpg 1800w,
+/static/a5ebb7b8796a237db4dc7ccf6fac33ec/b94e1/IMG_8474.jpg 2700w,
+/static/a5ebb7b8796a237db4dc7ccf6fac33ec/c2b56/IMG_8474.jpg 3024w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -364,7 +364,7 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/c2b56/IMG_8482.jpg&quot;
+    href=&quot;/static/c0840a3888df9caa017160a5d05a83dc/c2b56/IMG_8482.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -377,12 +377,12 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;workshop impressions&quot;
         title=&quot;workshop impressions&quot;
-        src=&quot;/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/98235/IMG_8482.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/df2c7/IMG_8482.jpg 450w,
-/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/2d017/IMG_8482.jpg 900w,
-/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/98235/IMG_8482.jpg 1800w,
-/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/b94e1/IMG_8482.jpg 2700w,
-/gatsby-starter-blog/static/c0840a3888df9caa017160a5d05a83dc/c2b56/IMG_8482.jpg 3024w&quot;
+        src=&quot;/static/c0840a3888df9caa017160a5d05a83dc/98235/IMG_8482.jpg&quot;
+        srcset=&quot;/static/c0840a3888df9caa017160a5d05a83dc/df2c7/IMG_8482.jpg 450w,
+/static/c0840a3888df9caa017160a5d05a83dc/2d017/IMG_8482.jpg 900w,
+/static/c0840a3888df9caa017160a5d05a83dc/98235/IMG_8482.jpg 1800w,
+/static/c0840a3888df9caa017160a5d05a83dc/b94e1/IMG_8482.jpg 2700w,
+/static/c0840a3888df9caa017160a5d05a83dc/c2b56/IMG_8482.jpg 3024w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -394,7 +394,7 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/c2b56/IMG_8492.jpg&quot;
+    href=&quot;/static/173bde4eee787e0bb8b0489b2500b51c/c2b56/IMG_8492.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -407,12 +407,12 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;workshop impressions&quot;
         title=&quot;workshop impressions&quot;
-        src=&quot;/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/98235/IMG_8492.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/df2c7/IMG_8492.jpg 450w,
-/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/2d017/IMG_8492.jpg 900w,
-/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/98235/IMG_8492.jpg 1800w,
-/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/b94e1/IMG_8492.jpg 2700w,
-/gatsby-starter-blog/static/173bde4eee787e0bb8b0489b2500b51c/c2b56/IMG_8492.jpg 3024w&quot;
+        src=&quot;/static/173bde4eee787e0bb8b0489b2500b51c/98235/IMG_8492.jpg&quot;
+        srcset=&quot;/static/173bde4eee787e0bb8b0489b2500b51c/df2c7/IMG_8492.jpg 450w,
+/static/173bde4eee787e0bb8b0489b2500b51c/2d017/IMG_8492.jpg 900w,
+/static/173bde4eee787e0bb8b0489b2500b51c/98235/IMG_8492.jpg 1800w,
+/static/173bde4eee787e0bb8b0489b2500b51c/b94e1/IMG_8492.jpg 2700w,
+/static/173bde4eee787e0bb8b0489b2500b51c/c2b56/IMG_8492.jpg 3024w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -425,7 +425,7 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/c2b56/IMG_8490.jpg&quot;
+    href=&quot;/static/3c314675588668a2b4ec0108e34c0dda/c2b56/IMG_8490.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -438,12 +438,12 @@ Daniel Klotz of the company &lt;a href=&quot;https://www.lettertypen.de/&quot;&g
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;workshop impressions&quot;
         title=&quot;workshop impressions&quot;
-        src=&quot;/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/98235/IMG_8490.jpg&quot;
-        srcset=&quot;/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/df2c7/IMG_8490.jpg 450w,
-/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/2d017/IMG_8490.jpg 900w,
-/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/98235/IMG_8490.jpg 1800w,
-/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/b94e1/IMG_8490.jpg 2700w,
-/gatsby-starter-blog/static/3c314675588668a2b4ec0108e34c0dda/c2b56/IMG_8490.jpg 3024w&quot;
+        src=&quot;/static/3c314675588668a2b4ec0108e34c0dda/98235/IMG_8490.jpg&quot;
+        srcset=&quot;/static/3c314675588668a2b4ec0108e34c0dda/df2c7/IMG_8490.jpg 450w,
+/static/3c314675588668a2b4ec0108e34c0dda/2d017/IMG_8490.jpg 900w,
+/static/3c314675588668a2b4ec0108e34c0dda/98235/IMG_8490.jpg 1800w,
+/static/3c314675588668a2b4ec0108e34c0dda/b94e1/IMG_8490.jpg 2700w,
+/static/3c314675588668a2b4ec0108e34c0dda/c2b56/IMG_8490.jpg 3024w&quot;
         sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
         loading=&quot;lazy&quot;
       /&gt;

@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/typesetting`,
+  // pathPrefix: `/typesetting`,
 
   __experimentalThemes: [{
     resolve: 'gatsby-theme-signalwerk',

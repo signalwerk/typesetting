@@ -14,7 +14,7 @@ description: "Several old typometers are beeing used in the workshop. Let's have
 
 
 ## Typometers for Typesetting
-I found several old typometers.
+Some typometers found in the workshop:
 
 ![](./img/IMG_6869.jpg)
 
@@ -44,4 +44,4 @@ A couple years later I made my own typometer. This design was inspired by my fir
 ## 2019 - First Typesetting
 I made some first attempts to design my own typesetting typometer...
 
-![](./img/typometer_all_comp.jpg)
+![](./img/typometer_all_comp.png)

@@ -9,8 +9,23 @@ path: "/posts/typometer-designs/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Several old typometers are beeing used in the workshop I'm going to. Let's have a look at it."
+description: "Several old typometers are beeing used in the workshop. Let's have a look at it."
 ---
+
+
+## Typometers for Typesetting
+I found several old typometers.
+
+![](./img/IMG_6869.jpg)
+
+
+For a typometer made by a company called «Bacher» I found two versions:
+
+![](./img/IMG_0752.jpg)
+
+The one with the «wings» is probably one of my favorites;
+
+![](./img/IMG_4035.jpg)
 
 
 ## 1997 – Who remembers «DTP»?!
@@ -26,16 +41,7 @@ A couple years later I made my own typometer. This design was inspired by my fir
 ![](./img/IMG_4429.jpg)
 
 
-## Typometers for Typesetting
-In the workshop I'm currently attending to, I found several old styles for typometers.
+## 2019 - First Typesetting
+I made some first attempts to design my own typesetting typometer...
 
-![](./img/IMG_6869.jpg)
-
-
-For a typometer made by a company called «Bacher» I found two versions:
-
-![](./img/IMG_0752.jpg)
-
-The one with the «wings» is probably one of my favorites;
-
-![](./img/IMG_4035.jpg)
+![](./img/typometer_all_comp.jpg)
